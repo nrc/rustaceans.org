@@ -1,0 +1,14 @@
+{
+    "name": "Nick Cameron",
+    "irc": "nrc",
+    "irc_channels": ["rust", "rust-internals"], 
+    "show_github": true,
+    "email": "nrc@ncameron.org",
+    "discourse": "nrc",
+    "reddit": "nick29581",
+    "twitter": "nick_r_cameron",
+    "show_avatar": true,
+    "blog": "",
+    "website": "",
+    "notes": ""
+}

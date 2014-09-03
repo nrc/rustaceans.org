@@ -1,0 +1,25 @@
+// Fill out the json struct below with your information. All fields are optional.
+// Rename this file to `username.json` where username is your GitHub username.
+// Make a PR which adds only username.json and push it (using the same GitHub
+// account) to TODO.
+
+{
+    "name": "",
+    "irc": "",
+    // e.g., ["rust", "rust-gamedev"]
+    "irc_channels": [],
+    // If true, your GitHub username will be displayed.
+    "show_github": false,
+    // Show your GitHub avatar.
+    "show_avatar": false,
+    // Feel free to obfuscate your email address.
+    "email": "",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "",
+    "blog": "",
+    "website": "",
+    // Any text you like. Newlines will be respectd, all other formatting will
+    // be lost. URLs starting with http:// or https:// will be made into links.
+    "notes": ""
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Test McTest",
+    "irc": "nrc",
+    "irc_channels": ["servo"], 
+    "show_github": false,
+    "email": "test@ncameron.org",
+    "discourse": "test",
+    "reddit": "testmctest",
+    "twitter": "",
+    "show_avatar": true,
+    "blog": "",
+    "website": "",
+    "notes": ""
+}

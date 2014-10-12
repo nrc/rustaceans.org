@@ -9,11 +9,5 @@
     "show_avatar": true,
     "blog": "",
     "website": "",
-    "notes": 
-"This should be translated form **markdown**:\
-* foo\
-* bar\
-* baz\
-\
-and a link: http://www.ncameron.org"
+    "notes": "This should be translated form **markdown**:\n* foo\n* bar\n* baz\n\nand a link: http://www.ncameron.org"
 }

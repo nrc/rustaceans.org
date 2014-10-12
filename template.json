@@ -3,13 +3,15 @@
 // Make a PR which adds only username.json and push it (using the same GitHub
 // account) to TODO.
 
+// You must remove all comments! If you leave any comments in the file it will
+// not be valid json and will not work. You may add whatever fields you like,
+// those not listed here will be ingnored.
+
 {
     "name": "",
     "irc": "",
     // e.g., ["rust", "rust-gamedev"]
     "irc_channels": [],
-    // If true, your GitHub username will be displayed.
-    "show_github": false,
     // Show your GitHub avatar.
     "show_avatar": false,
     // Feel free to obfuscate your email address.
@@ -19,7 +21,6 @@
     "twitter": "",
     "blog": "",
     "website": "",
-    // Any text you like. Newlines will be respectd, all other formatting will
-    // be lost. URLs starting with http:// or https:// will be made into links.
+    // Notes about you; markdown.
     "notes": ""
 }

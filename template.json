@@ -1,26 +1,13 @@
-// Fill out the json struct below with your information. All fields are optional.
-// Rename this file to `username.json` where username is your GitHub username.
-// Make a PR which adds only username.json and push it (using the same GitHub
-// account) to TODO.
-
-// You must remove all comments! If you leave any comments in the file it will
-// not be valid json and will not work. You may add whatever fields you like,
-// those not listed here will be ingnored.
-
 {
     "name": "",
     "irc": "",
-    // e.g., ["rust", "rust-gamedev"]
     "irc_channels": [],
-    // Show your GitHub avatar.
     "show_avatar": false,
-    // Feel free to obfuscate your email address.
     "email": "",
     "discourse": "",
     "reddit": "",
     "twitter": "",
     "blog": "",
     "website": "",
-    // Notes about you; markdown.
     "notes": ""
 }

@@ -1,0 +1,11 @@
+{
+    "name": "Jack Moffitt",
+    "irc": "jack",
+    "irc_channels": ["servo", "rust", "rust-gamedev", "rust-internals", "cargo", "research"],
+    "show_avatar": true,
+    "email": "jack@metajack.im",
+    "reddit": "metajack",
+    "twitter": "metajack",
+    "blog": "http://metajack.im",
+    "notes": "Research Engineering Manager @ Mozilla. I manage the Servo and Daala projects."
+}

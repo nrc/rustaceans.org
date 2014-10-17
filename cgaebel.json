@@ -1,0 +1,13 @@
+{
+    "name": "Clark Gaebel",
+    "irc": "cgaebel",
+    "irc_channels": ["rust", "servo", "rust-gamedev" ],
+    "show_avatar": false,
+    "email": "cgaebel@mozilla.com",
+    "discourse": "cgaebel",
+    "reddit": "cgaebel",
+    "twitter": "",
+    "blog": "http://clarkgaebel.com",
+    "website": "",
+    "notes": "I'm currently a Mozilla Research Intern working on Servo."
+}

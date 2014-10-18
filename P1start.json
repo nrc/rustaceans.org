@@ -1,0 +1,13 @@
+{
+    "name": "P1start",
+    "irc": "p1start",
+    "irc_channels": ["rust", "rust-internals", "rust-gamedev", "cargo"],
+    "show_avatar": true,
+    "email": "",
+    "discourse": "P1start",
+    "reddit": "unclosed_paren",
+    "twitter": "",
+    "blog": "",
+    "website": "",
+    "notes": ""
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Huon Wilson",
+    "irc": "huon",
+    "irc_channels": ["rust", "rust-internals", "cargo", "iron", "rust-apidesign", "rust-crypto", "rust-gamedev", "rust-osdev", "rust-webdev", "servo"],
+    "show_avatar": true,
+    "email": "dbau.pp@gmail.com",
+    "discourse": "huon",
+    "reddit": "dbaupp",
+    "twitter": ""
+    "blog": "https://huonw.github.io/blog",
+    "website": "http://huonw.github.io/",
+    "notes": ""
+}

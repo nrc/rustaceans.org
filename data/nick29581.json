@@ -6,7 +6,7 @@
     "discourse": "nrc",
     "reddit": "nick29581",
     "twitter": "nick_r_cameron",
-    "show_avatar": false,
+    "show_avatar": true,
     "blog": "http://featherweightmusings.blogspot.co.nz/",
     "website": "http://www.ncameron.org",
     "notes": "I work on the Rust compiler, language design, and tooling ([DXR](https://github.com/nick29581/dxr/tree/rust2)). I'm part of the research team at Mozilla.\n\nOther projects:\n* [rust-highfive](https://github.com/nick29581/highfive) a bot that roams the rust repos being helpful\n* [libhoare](https://github.com/nick29581/libhoare) pre- and postconditions for Rust\n* [rustaceans.org](https://github.com/nick29581/rustaceans-src) this website"

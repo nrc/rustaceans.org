@@ -1,0 +1,13 @@
+{
+    "name": "Ty Overby",
+    "irc": "ty",
+    "irc_channels": ["#rust", "#rust-gamedev"],
+    "show_avatar": true,
+    "email": "ty@pre-alpha.com",
+    "discourse": "",
+    "reddit": "TyOverby",
+    "twitter": "",
+    "blog": "tyoverby.com",
+    "website": "tyoverby.com",
+    "notes": "My irc handle will vary between 'ty' and 'tyoverby'."
+}

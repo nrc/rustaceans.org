@@ -7,21 +7,22 @@ rustaceans and provides the data for rustaceans.org. To see the source itself
 for rustaceans.org, see https://github.com/nick29581/rustaceans-src.
 
 To add or edit your data, you must fork this repo and send a pull request. Your
-PR should only add/modify a single file which is named your username '.json'. If
-your PR touches only your file it will be automatically merged and the database
-for rustaceans.org is automatically updated.
+PR should only add/modify a single file which is named `<your username>.json` in
+the `data` directory. If your PR touches only your file, it will be
+automatically merged and the database for rustaceans.org is automatically
+updated.
 
 To remove yourself from rustaceans.org, send a PR removing your json file. Note
 that your data will remain in the public history of this repository and cannot
 be removed.
 
-[template.json](https://github.com/nick29581/rustaceans.org/blob/master/template.json)
+[data/template.json](https://github.com/nick29581/rustaceans.org/blob/master/data/template.json)
 is a template json file you can fill in with your details. Make sure you don't
-delete the file or your PR will be rejected. All fields are optional (but your
-GitHub username will always be shown on rustaceans.org). You can add any fields
-you like, they will be ignored, but if that field is added to rustaceans.org in
-the future it will get picked up. Feel free to obfuscate any fields you like
-(such as `email`).
+delete the original file or your PR will be rejected. All fields are optional
+(but your GitHub username will always be shown on rustaceans.org). You can add
+any fields you like, they will be ignored, but if that field is added to
+rustaceans.org in the future it will get picked up. Feel free to obfuscate any
+fields you like (such as `email`).
 
 ### The fields
 

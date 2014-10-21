@@ -1,6 +1,6 @@
 {
-    "name": "Valve",
-    "irc": "Valve",
+    "name": "valve",
+    "irc": "valve",
     "irc_channels": ["rust"],
     "show_avatar": true,
     "email": "valentin.vasilyev@outlook.com",

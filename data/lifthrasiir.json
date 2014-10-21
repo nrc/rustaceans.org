@@ -9,5 +9,5 @@
     "show_avatar": true,
     "blog": "http://j.mearie.org/",
     "website": "http://mearie.org/",
-    "notes": "<marquee>I'm doing various things with Rust, most notably [rust-encoding](https://github.com/lifthrasiir/rust-encoding) and [Sonorous](https://github.com/snrs/sonorous).</marquee>"
+    "notes": "I'm doing various things with Rust, most notably [rust-encoding](https://github.com/lifthrasiir/rust-encoding) and [Sonorous](https://github.com/snrs/sonorous)."
 }

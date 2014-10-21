@@ -1,0 +1,13 @@
+{
+    "name": "Valve",
+    "irc": "Valve",
+    "irc_channels": ["rust"],
+    "show_avatar": true,
+    "email": "valentin.vasilyev@outlook.com",
+    "discourse": "",
+    "reddit": "iamvalentin",
+    "twitter": "",
+    "blog": "valve.github.io",
+    "website": "",
+    "notes": "Russia (south)"
+}

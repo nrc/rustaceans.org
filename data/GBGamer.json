@@ -1,7 +1,7 @@
 {
     "name": "Nicholas Mazzuca",
     "irc":  "GBGamer",
-    "irc_channels": ["rust"],
+    "irc_channels": ["rust", "rust-gamedev"],
     "show_avatar": true,
     "email": "npmazzuca@gmail.com",
     "reddit": "GBGamer117"

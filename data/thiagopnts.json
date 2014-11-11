@@ -1,0 +1,13 @@
+{
+    "name": "Thiago Pontes",
+    "irc": "thiago",
+    "irc_channels": ["rust", "rust-webdev", "rust-osdev", "servo", "cargo"],
+    "show_avatar": true,
+    "email": "email@thiago.me",
+    "discourse": "thiagopnts",
+    "reddit": "thiagopnts",
+    "twitter": "@thiagopnts",
+    "blog": "http://words.thiago.me",
+    "website": "http://thiago.me",
+    "notes": ""
+}

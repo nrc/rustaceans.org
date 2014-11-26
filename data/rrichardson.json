@@ -1,5 +1,5 @@
 {
-    "name": "Rick Richardson"
+    "name": "Rick Richardson",
     "irc": "rovar",
     "irc_channels": ["rust", "mio"],
     "show_avatar": true,

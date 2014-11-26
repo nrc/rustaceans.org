@@ -1,0 +1,8 @@
+{
+    "name": "Tobias Bucher",
+    "irc": "eibwen",
+    "irc_channels": ["cargo", "rust", "rust-internals", "servo"], 
+    "email": "tobiasbucher5991@gmail.com",
+    "discourse": "tbu",
+    "show_avatar": true
+}

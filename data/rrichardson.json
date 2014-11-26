@@ -1,0 +1,13 @@
+{
+    "name": "Rick Richardson"
+    "irc": "rovar",
+    "irc_channels": ["rust", "mio"],
+    "show_avatar": true,
+    "email": "rick.richardson@gmail.com",
+    "discourse": "rrichardson",
+    "reddit": "rovar",
+    "twitter": "eigenrick",
+    "blog": "blog.eigenrick.com",
+    "website": "12sidedtech.com",
+    "notes": "Building high-performance, networked applications for [12Sided Tech](http://12sidedtech.com) using stuff like [mio](https://github.com/carllerche/mio)"
+}

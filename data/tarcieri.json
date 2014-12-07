@@ -1,0 +1,13 @@
+{
+    "name": "Tony Arcieri",
+    "irc": "bascule",
+    "irc_channels": ["rust", "rust-crypto"],
+    "email": "bascule@gmail.com",
+    "discourse": "bascule",
+    "reddit": "bascule",
+    "twitter": "bascule",
+    "show_avatar": true,
+    "blog": "http://tonyarcieri.com",
+    "website": "https://github.com/tarcieri/",
+    "notes": "Square Security Engineer. Creator of Celluloid and the Cryptosphere"
+}

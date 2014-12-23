@@ -1,0 +1,13 @@
+{
+    "name": "Tomas Sedovic",
+    "irc": "shadower",
+    "irc_channels": ["rust", "cargo", "rust-gamedev"],
+    "show_avatar": true,
+    "email": "tomas@sedovic.cz",
+    "discourse": "",
+    "reddit": "tsedovic",
+    "twitter": "tomassedovic",
+    "blog": "http://www.aimlesslygoingforward.com/",
+    "website": "",
+    "notes": "I maintain tcod-rs, the Rust bindings to libtcod (a roguelike library)."
+}

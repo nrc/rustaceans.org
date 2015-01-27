@@ -1,0 +1,8 @@
+{
+    "name": "Akos Kiss",
+    "irc": "akiss",
+    "irc_channels": ["rust", "servo"],
+    "show_avatar": true,
+    "email": "akiss@inf.u-szeged.hu",
+    "notes": "in love with AArch64"
+}

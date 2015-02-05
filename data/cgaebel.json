@@ -1,7 +1,7 @@
 {
     "name": "Clark Gaebel",
     "irc": "cgaebel",
-    "irc_channels": ["rust", "servo", #rust-offtopic" ],
+    "irc_channels": ["rust", "servo", "rust-offtopic" ],
     "show_avatar": false,
     "email": "cg.wowus.cg@gmail.com"
     "discourse": "cgaebel",

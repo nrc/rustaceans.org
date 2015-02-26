@@ -1,0 +1,13 @@
+{
+    "name": "Simonas Kazlauskas",
+    "irc": "simukis",
+    "irc_channels": ["rust-internals", "rustc", "rust-libs", "rust"],
+    "show_avatar": true,
+    "email": "rustaceans@kazlauskas.me",
+    "discourse": "nagisa",
+    "reddit": "",
+    "twitter": "@simukis",
+    "blog": "http://kazlauskas.me/",
+    "website": "http://kazlauskas.me/",
+    "notes": ""
+}

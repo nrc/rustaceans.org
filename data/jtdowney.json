@@ -1,0 +1,13 @@
+{
+    "name": "John Downey",
+    "irc": "jtdowney",
+    "irc_channels": ["rust", "rust-crypto", "cargo"],
+    "email": "jdowney@gmail.com",
+    "discourse": "jtdowney",
+    "reddit": "vestige",
+    "twitter": "jtdowney",
+    "show_avatar": true,
+    "blog": "http://jtdowney.com",
+    "website": "http://jtdowney.com",
+    "notes": "Developer and Security Lead at Braintree"
+}

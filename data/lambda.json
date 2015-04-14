@@ -1,7 +1,7 @@
 {
     "name": "Brian Campbell",
     "irc": "annodomini",
-    "irc_channels": ["#rust", "#rust-internals", "#rust-libs"],
+    "irc_channels": ["rust", "rust-internals", "rust-libs"],
     "show_avatar": true,
     "email": "lambda@continuation.org",
     "discourse": "lambda",

@@ -1,0 +1,13 @@
+{
+    "name": "Matej Ľach",
+    "irc": "MTRust",
+    "irc_channels": ["rust"],
+    "email": "matej.lach@gmail.com",
+    "discourse": "MTRust",
+    "reddit": "RustML",
+    "twitter": "MatejLach",
+    "show_avatar": true,
+    "blog": "http://matej-lach.me",
+    "website": "",
+    "notes": "I write and talk about Rust and even contribute some code:-)"
+}

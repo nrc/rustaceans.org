@@ -1,7 +1,7 @@
 {
     "name": "Carol (Nichols || Goulding)",
     "irc": "carols10cents",
-    "irc_channels": [#rust],
+    "irc_channels": ["rust"],
     "show_avatar": true,
     "email": "carol.nichols@gmail.com",
     "discourse": "carols10cents",

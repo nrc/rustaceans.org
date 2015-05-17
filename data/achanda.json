@@ -1,15 +1,15 @@
 {
-  name: "Abhishek Chanda",
-  irc: "achanda",
-  irc_channels: [
+  "name": "Abhishek Chanda",
+  "irc": "achanda",
+  "irc_channels": [
     "rust"
   ],
-  show_avatar: true,
-  email: "abhishek.becs@gmail.com",
-  discourse: "",
-  reddit: "",
-  twitter: "achanda",
-  blog: "",
-  website: "",
-  notes: ""
+  "show_avatar": true,
+  "email": "abhishek.becs@gmail.com",
+  "discourse": "",
+  "reddit": "",
+  "twitter": "achanda",
+  "blog": "",
+  "website": "",
+  "notes": ""
 }

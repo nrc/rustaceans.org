@@ -1,0 +1,12 @@
+{
+  "name": "SkylerLipthay",
+  "irc": "Skyler",
+  "irc_channels": ["rust", "rust-internals", "rust-webdev", "iron"],
+  "show_avatar": true,
+  "email": "sl@skylerlipthay.com",
+  "discourse": "SkylerLipthay",
+  "twitter": "SkylerLipthay",
+  "blog": "",
+  "website": "http://skylerlipthay.com",
+  "notes": ""
+}

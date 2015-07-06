@@ -1,7 +1,7 @@
 {
-    "name": "Corey Richardson",
-    "irc": "cmr",
-    "irc_channels": ["rust", "rust-internals", "cargo", "iron", "rust-apidesign", "rust-crypto", "rust-gamedev", "rust-osdev", "rust-webdev", "servo", "rust-fr", "rust-tls", "rust-gamedev", "teepee"],
+    "name": "Elaine",
+    "irc": "Elaine",
+    "irc_channels": ["rust", "rust-internals", "cargo", "rust-crypto", "rust-gamedev", "servo", "rust-gamedev"],
     "show_avatar": true,
     "email": "corey@octayn.net",
     "discourse": "cmr",
@@ -9,5 +9,5 @@
     "twitter": "cmrx64",
     "blog": "http://blog.octayn.net/",
     "website": "http://octayn.net/",
-    "notes": ""
+    "notes": "Formerly known as cmr"
 }

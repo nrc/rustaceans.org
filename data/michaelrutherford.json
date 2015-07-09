@@ -1,0 +1,13 @@
+{
+    "name": "Michael Rutherford",
+    "irc": "mlrutherford",
+    "irc_channels": ["rust", "rust-internals", "cargo", "rust-gamedev", "rust-osdev"],
+    "show_avatar": true,
+    "email": "michaellogan.rutherford@gmail.com",
+    "discourse": "michaelrutherford",
+    "reddit": "michaelrutherford",
+    "twitter": "0xMLR",
+    "blog": "https://michaelrutherford.github.io",
+    "website": "https://michaelrutherford.github.io",
+    "notes": "Linux software developer who enjoys working with open-source software and has experience in C, Rust, and Lisp."
+}

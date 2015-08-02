@@ -1,0 +1,13 @@
+{
+    "name": "Zvi \"Viz\" Effron",
+    "irc": "viz",
+    "irc_channels": ["rust", "rust-gamedev"],
+    "show_avatar": false,
+    "email": "viz+rustaceans@flippedperspective.com",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "CtrlZvi",
+    "blog": "https://blogs.flippedperspective.com/admittedly-im-a-bad-person",
+    "website": "",
+    "notes": "The blog is using a self-signed cert until Let's Encrypt launches in September."
+}

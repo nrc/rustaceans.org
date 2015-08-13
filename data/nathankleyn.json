@@ -1,0 +1,14 @@
+
+{
+    "name": "Nathan Kleyn",
+    "irc": "nathankleyn",
+    "irc_channels": ["rust", "rust-internals"],
+    "show_avatar": true,
+    "email": "nathan@nathankleyn.com",
+    "discourse": "nathankleyn",
+    "reddit": "nathankleyn",
+    "twitter": "nathankleyn",
+    "blog": "https://nathankleyn.com",
+    "website": "https://nathankleyn.com",
+    "notes": "Ruby, Haskell, Rust, and JS tinkerer."
+}

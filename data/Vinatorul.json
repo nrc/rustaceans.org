@@ -1,0 +1,12 @@
+{
+    "name": "Alexander Kuvaev",
+    "irc": "vinatorul",
+    "irc_channels": ["rust", "rust-gamedev"],
+    "show_avatar": true,
+    "email": "alexander@kuvaev.me",
+    "reddit": "Vinatorul",
+    "twitter": "Vinatorul",
+    "blog": "http://kuvaev.me/blog",
+    "website": "http://kuvaev.me",
+    "notes": "Student, music lover, software developer and Rust enthusiast"
+}

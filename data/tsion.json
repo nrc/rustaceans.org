@@ -1,0 +1,22 @@
+{
+    "name": "Scott Olson",
+    "irc": "scott",
+    "irc_channels": [
+        "cargo",
+        "rust",
+        "rustc",
+        "rust-internals",
+        "rust-lang",
+        "rust-libs",
+        "rust-offtopic",
+        "rust-osdev",
+        "rust-tools"
+    ],
+    "show_avatar": true,
+    "email": "scott@solson.me",
+    "discourse": "tsion",
+    "reddit": "tsion_",
+    "twitter": "tsion",
+    "website": "https://solson.me",
+    "notes": ""
+}

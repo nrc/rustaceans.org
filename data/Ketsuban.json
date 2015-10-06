@@ -1,7 +1,7 @@
 {
     "name": "Thomas Winwood",
     "irc": "Ketsuban",
-    "irc_channels": ["#rust", "#rust-osdev"],
+    "irc_channels": ["rust", "rust-osdev"],
     "show_avatar": true,
     "email": "twwinwood@gmail.com",
     "discourse": "Ketsuban",

@@ -1,7 +1,7 @@
 {
     "name": "Guillaume Gomez",
     "irc": "imperio",
-    "irc_channels": ["rust-fr", "rust-internals"],
+    "irc_channels": ["rust-fr", "rust-internals", "rust-docs"],
     "show_avatar": true,
     "email": "guillaume1.gomez@gmail.com",
     "discourse": "imperio",

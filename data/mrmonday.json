@@ -1,0 +1,14 @@
+{
+    "name": "Robert Clipsham",
+    "irc": "mrmonday",
+    "irc_channels": ["#rust", "#rust-networking", "#rust-offtopic", "#rust-osdev",
+                     "#rust-interals", "#rust-libs", "#rust-community", "#cargo"],
+    "show_avatar": true,
+    "email": "robert@octarineparrot.com",
+    "discourse": "mrmonday",
+    "reddit": "mrmonday",
+    "twitter": "",
+    "blog": "",
+    "website": "",
+    "notes": "You can also find me as ladyfriday or mrmonday in #libpnet and ##rust over on freenode."
+}

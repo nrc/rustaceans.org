@@ -1,7 +1,7 @@
 {
     "name": "Austin Bonander",
     "irc": "DroidLogician",
-    "irc_channels": ["#rust", "#rust-beginners", "#rust-gamedev", "#rust-osdev", "#rust-internals", "#rust-webdev", "#hyper", "#winapi"],
+    "irc_channels": ["rust", "rust-beginners", "rust-gamedev", "rust-osdev", "rust-internals", "rust-webdev", "hyper", "winapi"],
     "show_avatar": true,
     "email": "austin.bonander@gmail.com",
     "discourse": "droidlogician",

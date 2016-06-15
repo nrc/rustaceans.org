@@ -26,7 +26,18 @@ fields you like (such as `email`).
 
 ### The fields
 
-* `irc_channels` - a json array, e.g., `["rust", "rust-gamedev"]`
+* `name` - Your name.
+* `email` - Your email address. Will appear in a mailto link.
+* `website` - Your homepage URL.
+* `blog` - URL for your blog.
+* `irc` - Your IRC nickname.  (Does not support different nicknames for
+  different servers; use the nickname you use on Rust IRC channels.)
+* `irc_channels` - a json array of channel names on `irc.mozilla.org`, without
+  the `#` (e.g. `["rust", "rust-gamedev"]`).
+* `discourse` - Your username on [Discourse](https://internals.rust-lang.org/).
+* `reddit` - Your username on [Reddit](https://www.reddit.com/r/rust/)
+* `twitter` - Your username on [Twitter](https://twitter.com/), including the
+  `@`.
 * `show_avatar` - `true` or `false`, if it is true, your GitHub avatar will be
   displayed on rustaceans.org
 * `notes` - any notes you like about yourself. Markdown format; make sure you

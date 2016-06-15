@@ -7,7 +7,7 @@ rustaceans and provides the data for rustaceans.org. To see the source itself
 for rustaceans.org, see https://github.com/nick29581/rustaceans-src.
 
 To add or edit your data, you must fork this repo and send a pull request. Your
-PR should only add/modify a single file which is named `<your username>.json` in
+PR should only add/modify a single file named `<your github username>.json` in
 the `data` directory. If your PR touches only your file, it will be
 automatically merged and the database for rustaceans.org is automatically
 updated.
@@ -20,13 +20,24 @@ be removed.
 is a template json file you can fill in with your details. Make sure you don't
 delete the original file or your PR will be rejected. All fields are optional
 (but your GitHub username will always be shown on rustaceans.org). You can add
-any fields you like, they will be ignored, but if that field is added to
+any fields you like; they will be ignored, but if that field is added to
 rustaceans.org in the future it will get picked up. Feel free to obfuscate any
 fields you like (such as `email`).
 
 ### The fields
 
-* `irc_channels` - a json array, e.g., `["rust", "rust-gamedev"]`
+* `name` - Your name.
+* `email` - Your email address. Will appear in a mailto link.
+* `website` - Your homepage URL.
+* `blog` - URL for your blog.
+* `irc` - Your IRC nickname.  (Does not support different nicknames for
+  different servers; use the nickname you use on Rust IRC channels.)
+* `irc_channels` - a json array of channel names on `irc.mozilla.org`, without
+  the `#` (e.g. `["rust", "rust-gamedev"]`).
+* `discourse` - Your username on [Discourse](https://internals.rust-lang.org/).
+* `reddit` - Your username on [Reddit](https://www.reddit.com/r/rust/)
+* `twitter` - Your username on [Twitter](https://twitter.com/), including the
+  `@`.
 * `show_avatar` - `true` or `false`, if it is true, your GitHub avatar will be
   displayed on rustaceans.org
 * `notes` - any notes you like about yourself. Markdown format; make sure you

@@ -7,7 +7,7 @@ rustaceans and provides the data for rustaceans.org. To see the source itself
 for rustaceans.org, see https://github.com/nick29581/rustaceans-src.
 
 To add or edit your data, you must fork this repo and send a pull request. Your
-PR should only add/modify a single file which is named `<your username>.json` in
+PR should only add/modify a single file named `<your github username>.json` in
 the `data` directory. If your PR touches only your file, it will be
 automatically merged and the database for rustaceans.org is automatically
 updated.

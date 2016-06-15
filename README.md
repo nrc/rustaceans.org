@@ -20,7 +20,7 @@ be removed.
 is a template json file you can fill in with your details. Make sure you don't
 delete the original file or your PR will be rejected. All fields are optional
 (but your GitHub username will always be shown on rustaceans.org). You can add
-any fields you like, they will be ignored, but if that field is added to
+any fields you like; they will be ignored, but if that field is added to
 rustaceans.org in the future it will get picked up. Feel free to obfuscate any
 fields you like (such as `email`).
 

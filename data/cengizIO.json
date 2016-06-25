@@ -1,0 +1,11 @@
+{
+    "name": "Cengiz Can",
+    "irc": "cengizIO",
+    "irc_channels": ["servo", "rust", "cargo", "rust-beginners", "rust-internals"],
+    "show_avatar": true,
+    "email": "cengizc+rustaceans@gmail.com",
+    "discourse": "cengizIO",
+    "reddit": "cengizIO",
+    "twitter": "cengizIO",
+    "notes": "Developer at ThoughtWorks. Loves and advocates Rust"
+}

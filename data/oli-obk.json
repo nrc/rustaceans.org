@@ -1,7 +1,7 @@
 {
 "name": "Oliver Schneider",
-"irc": "ker",
-"irc_channels": ["rust"],
+"irc": "oli_obk",
+"irc_channels": ["rust", "rust-internals", "rust-offtopic", "serde", "rust-de"],
 "show_avatar": true,
 "email": "rust196191946461987@oli-obk.de",
 "discourse": "ker",

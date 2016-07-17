@@ -1,0 +1,13 @@
+{
+    "name": "Pascal",
+    "irc": "killercup",
+    "irc_channels": ["rust", "rust-offtopic", "rust-tools"],
+    "email": "killercup@gmail.com",
+    "discourse": "killercup",
+    "reddit": "killercup",
+    "twitter": "killercup",
+    "show_avatar": true,
+    "blog": "https://pascalhertleif.de/artikel/",
+    "website": "https://pascalhertleif.de/",
+    "notes": ""
+}

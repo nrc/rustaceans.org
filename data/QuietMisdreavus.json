@@ -1,0 +1,13 @@
+{
+    "name": "QuietMisdreavus",
+    "irc": "misdreavus",
+    "irc_channels": ["rust", "rust-beginners", "hyper"],
+    "show_avatar": true,
+    "email": "grey_AT_quietmisdreavus.net",
+    "discourse": "",
+    "reddit": "bwicesoldier",
+    "twitter": "@QuietMisdreavus",
+    "blog": "https://quietmisdreavus.net",
+    "website": "",
+    "notes": "silly ghost from texas who doesn't like using the shift key, and prefers using an alias on the internet"
+}

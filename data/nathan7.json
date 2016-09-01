@@ -1,7 +1,7 @@
 {
     "name": "Nathan Zadoks",
-    "irc": "nathan7",
-    "irc_channels": ["rust", "rust-internals", "rust-osdev"],
+    "irc": "succ",
+    "irc_channels": ["rust", "rust-offtopic", "rust-internals", "rust-lang", "rust-osdev", "libfringe"],
     "show_avatar": true,
     "email": "nathan@nathan7.eu",
     "twitter": "FrozenFire"

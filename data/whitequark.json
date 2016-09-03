@@ -1,0 +1,11 @@
+{
+  "name": "whitequark",
+  "email": "whitequark@whitequark.org",
+  "website": "https://whitequark.org",
+  "blog": "https://lab.whitequark.org",
+  "irc": "whitequark",
+  "irc_channels": ["#rust-offtopic"],
+  "reddit": "whitequark",
+  "twitter": "@whitequark",
+  "show_avatar": true
+}

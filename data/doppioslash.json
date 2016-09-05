@@ -1,0 +1,12 @@
+{
+    "name": "Claudia Doppioslash",
+    "irc": "doppioslash",
+    "irc_channels": ["rust-gamedev", "rust-mobile", "rust-tools"],
+    "discourse": "doppioslash",
+    "reddit": "doppioslash",
+    "twitter": "@doppioslash",
+    "show_avatar": true,
+    "blog": "http://www.shadercat.com/",
+    "website": "http://www.doppioslash.com/",
+    "notes": "Made and maintains [arewegameyet.com](http://arewegameyet.com), writes about using Rust in gamedev on [shadercat.com](http://www.shadercat.com)"
+}

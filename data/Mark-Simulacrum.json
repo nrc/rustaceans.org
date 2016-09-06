@@ -1,0 +1,9 @@
+{
+    "name": "Mark Simulacrum",
+    "irc": "simulacrum",
+    "irc_channels": ["rust", "rust-beginners", "rust-tools", "rust-docs", "rustc", "rust-internals", "serde"],
+    "show_avatar": false,
+    "email": "mark.simulacrum@gmail.com",
+    "discourse": "Mark_Simulacrum",
+    "reddit": "Mark-Simulacrum"
+}

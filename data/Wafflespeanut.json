@@ -1,0 +1,13 @@
+{
+    "name": "Ravi Shankar",
+    "irc": "waffles",
+    "irc_channels": ["servo", "rust", "rust-beginners", "rust-internals"],
+    "show_avatar": true,
+    "email": "wafflespeanut@gmail.com",
+    "discourse": "Wafflespeanut",
+    "reddit": "wafflespeanut",
+    "twitter": "Wafflespeanut",
+    "blog": "http://wafflespeanut.github.io/",
+    "website": "http://wafflespeanut.github.io/",
+    "notes": "I'm a contributor to Servo, and I occasionally contribute to rustc."
+}

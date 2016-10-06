@@ -1,7 +1,7 @@
 {
-    "name": "Elaine",
-    "irc": "Elaine",
-    "irc_channels": ["rust", "rust-internals", "cargo", "rust-crypto", "rust-gamedev", "servo", "rust-gamedev"],
+    "name": "Corey RIchardson",
+    "irc": "cmr",
+    "irc_channels": ["rust-internals", "rust-offtopic"],
     "show_avatar": true,
     "email": "corey@octayn.net",
     "discourse": "cmr",
@@ -9,5 +9,5 @@
     "twitter": "cmrx64",
     "blog": "http://blog.octayn.net/",
     "website": "http://octayn.net/",
-    "notes": "Formerly known as cmr"
+    "notes": "Not very active these days. Working on https://robigalia.org"
 }

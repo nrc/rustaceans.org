@@ -1,0 +1,13 @@
+{
+    "name": "Mark Sta Ana",
+    "irc": "booyaa",
+    "irc_channels": ["rust-community", "rust-beginners", "bors", "rust-bridge"],
+    "show_avatar": true,
+    "email": "booyaabooyaabooyaa@gmail.com",
+    "discourse": "booyaa",
+    "reddit": "",
+    "twitter": "@booyaa",
+    "blog": "https://booyaa.github.io/funghirecipes/",
+    "website": "http://booyaa.org",
+    "notes": ""
+}

@@ -4,8 +4,8 @@
   "website": "https://luvit.io/",
   "blog": "https://howtonode.org/",
   "irc": "creationix",
-  "irc_channels": "rust",
+  "irc_channels": ["rust"],
   "twitter": "creationix",
   "github": "creationix",
-  "show_avater": true
+  "show_avatar": true
 }

@@ -1,0 +1,12 @@
+{
+    "name": "Michael Nitschinger",
+    "irc": "daschl",
+    "irc_channels": ["rust", "rust-beginners", "tensorflow-rust"], 
+    "email": "michael@nitschinger.at",
+    "discourse": "daschl",
+    "reddit": "daschl",
+    "twitter": "daschl",
+    "show_avatar": true,
+    "blog": "http://nitschinger.at/",
+    "website": "http://nitschinger.at/"
+}

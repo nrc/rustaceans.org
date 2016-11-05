@@ -1,13 +1,13 @@
 {
     "name": "QuietMisdreavus",
     "irc": "misdreavus",
-    "irc_channels": ["rust", "rust-beginners", "hyper"],
+    "irc_channels": ["rust", "rust-beginners", "hyper", "rust-internals", "rust-docs"],
     "show_avatar": true,
     "email": "grey_AT_quietmisdreavus.net",
-    "discourse": "",
+    "discourse": "QuietMisdreavus",
     "reddit": "bwicesoldier",
     "twitter": "@QuietMisdreavus",
-    "blog": "https://quietmisdreavus.net",
+    "blog": "http://quietmisdreavus.net",
     "website": "",
-    "notes": "silly ghost from texas who doesn't like using the shift key, and prefers using an alias on the internet"
+    "notes": "i am a ghost, i like to type in all lowercase, i like to teach people in #rust-beginners, i like to ramble into twitter"
 }

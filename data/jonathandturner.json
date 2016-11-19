@@ -1,0 +1,13 @@
+{
+    "name": "Jonathan Turner",
+    "irc": "jntrnr",
+    "irc_channels": ["rust", "rust-community"],
+    "show_avatar": true,
+    "email": "jturner@mozilla.com",
+    "discourse": "",
+    "reddit": "jntrnr1",
+    "twitter": "@jntrnr",
+    "blog": "http://jonathanturner.org",
+    "website": "http://jonathanturner.org",
+    "notes": "I'm part of the Rust team at Mozilla."
+}

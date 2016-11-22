@@ -1,0 +1,13 @@
+{
+    "name": "llogiq",
+    "irc": "llogiq",
+    "irc_channels": ["#rust", "#rust-tools", "#rust-community"],
+    "show_avatar": true,
+    "email": "bogusandre@gmail.com",
+    "discourse": "llogiq",
+    "reddit": "llogiq",
+    "twitter": "@llogiq",
+    "blog": "https://llogiq.github.io",
+    "website": "https://llogiq.github.io",
+    "notes": "Runs around, fixing things"
+}

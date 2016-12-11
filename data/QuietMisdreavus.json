@@ -1,7 +1,7 @@
 {
     "name": "QuietMisdreavus",
     "irc": "misdreavus",
-    "irc_channels": ["rust", "rust-beginners", "hyper", "rust-internals", "rust-docs"],
+    "irc_channels": ["rust", "rust-beginners", "rust-internals", "rust-docs"],
     "show_avatar": true,
     "email": "grey_AT_quietmisdreavus.net",
     "discourse": "QuietMisdreavus",
@@ -9,5 +9,5 @@
     "twitter": "@QuietMisdreavus",
     "blog": "http://quietmisdreavus.net",
     "website": "",
-    "notes": "i am a ghost, i like to type in all lowercase, i like to teach people in #rust-beginners, i like to ramble into twitter"
+    "notes": "silly ghost from texas who uses 'they' pronouns and likes to teach newbies in #rust-beginners; i'm here to queer up the place"
 }

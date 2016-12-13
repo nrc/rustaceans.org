@@ -1,9 +1,7 @@
 {
     "name": "Michael Groncki",
     "irc": "dergroncki",
-    "irc_channels": [
-    	"rust-beginners",
-    ],
+    "irc_channels": ["rust-beginners"],
     "show_avatar": true,
     "email": "info@michael-groncki.com",
     "discourse": "dergroncki",

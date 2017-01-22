@@ -1,0 +1,13 @@
+{
+    "name": "Chris Morgan",
+    "irc": "ChrisMorgan",
+    "irc_channels": ["rust", "rust-internals", "rust-libs", "rust-offtopic", "rust-webdev"],
+    "show_avatar": true,
+    "email": "me@chrismorgan.info",
+    "discourse": "chris",
+    "reddit": "chrismorgan",
+    "twitter": "__chrismorgan",
+    "blog": "http://chrismorgan.info/blog",
+    "website": "http://chrismorgan.info/",
+    "notes": ""
+}

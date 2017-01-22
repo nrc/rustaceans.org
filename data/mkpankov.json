@@ -1,0 +1,13 @@
+{
+    "name": "Michael Pankov",
+    "irc": "mkpankov",
+    "irc_channels": ["rust", "rust-internals", "cargo"],
+    "show_avatar": true,
+    "email": "work@michaelpankov.com",
+    "discourse": "mkpankov",
+    "reddit": "mkpankov",
+    "twitter": "mkpankov",
+    "blog": "http://blog.michaelpankov.com/",
+    "website": "http://michaelpankov.com/",
+    "notes": "Moscow, Russia"
+}

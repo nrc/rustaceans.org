@@ -1,0 +1,13 @@
+{
+    "name": "Int Index",
+    "irc": "int-index",
+    "irc_channels": ["rust", "haskell"],
+    "show_avatar": true,
+    "email": "vlad.z.4096@gmail.com",
+    "discourse": "",
+    "reddit": "int_index",
+    "twitter": "int_index",
+    "blog": "",
+    "website": "",
+    "notes": "I am mostly interested in Haskell, but for low-level stuff there's nothing better than Rust."
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Manoj Kumar",
+    "irc": "hindenbug",
+    "irc_channels": ["rust", "rust-beginners"],
+    "show_avatar": true,
+    "email": "",
+    "discourse": "hindenbug",
+    "reddit": "hindenbug",
+    "twitter": "@_hindenbug",
+    "website": "http://hindenbug.me",
+    "blog": "http://hindenbug.me/blog/",
+    "notes": "Learning Rust"
+}

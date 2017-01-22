@@ -1,0 +1,13 @@
+{
+    "name": "Flavio Percoco",
+    "irc": "flaper87",
+    "irc_channels": ["rust", "rust-internals", "cargo", "iron", "rust-apidesign", "rust-webdev"],
+    "show_avatar": true,
+    "email": "flaper87@gmail.com",
+    "discourse": "flaper87",
+    "reddit": "flaper87",
+    "twitter": "flaper87",
+    "blog": "https://blog.flaper87.com",
+    "website": "http://www.flaper87.com/",
+    "notes": ""
+}

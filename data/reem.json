@@ -1,0 +1,13 @@
+{
+    "name": "Jonathan Reem",
+    "irc": "reem",
+    "irc_channels": ["rust", "rust-webdev", "rust-apidesign", "iron"],
+    "show_avatar": true,
+    "email": "jonathan.reem@gmail.com",
+    "discourse": "reem",
+    "reddit": "jonreem",
+    "twitter": "@jreem",
+    "blog": "https://medium.com/@jreem",
+    "website": "http://www.jonathanreem.io",
+    "notes": "I am a serial author of rust modules, many of which relate to Rust's web development community. Come to me with any questions about Iron, Hyper, or anything related to the future of web development in Rust."
+}

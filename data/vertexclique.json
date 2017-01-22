@@ -1,0 +1,13 @@
+{
+    "name": "Mahmut Bulut",
+    "irc": "vertexclique",
+    "irc_channels": ["rust", "rust-osdev", "servo", "rust-tls", "rust-crypto"],
+    "show_avatar": true,
+    "email": "mahmut@mahmutbulut.com",
+    "discourse": "vertexclique",
+    "reddit": "vertexclique",
+    "twitter": "vertexclique",
+    "blog": "http://mahmutbulut.com/blog",
+    "website": "http://mahmutbulut.com",
+    "notes": ""
+}

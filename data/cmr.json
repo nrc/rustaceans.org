@@ -1,0 +1,13 @@
+{
+    "name": "Corey RIchardson",
+    "irc": "cmr",
+    "irc_channels": ["rust-internals", "rust-offtopic"],
+    "show_avatar": true,
+    "email": "corey@octayn.net",
+    "discourse": "cmr",
+    "reddit": "cmrx64",
+    "twitter": "cmrx64",
+    "blog": "http://blog.octayn.net/",
+    "website": "http://octayn.net/",
+    "notes": "Not very active these days. Working on https://robigalia.org"
+}

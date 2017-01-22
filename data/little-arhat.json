@@ -1,0 +1,13 @@
+{
+    "name": "Roma Sokolov",
+    "irc": "larhat",
+    "irc_channels": ["rust", "rust-internals", "rust-offtopic", "rust-osdev"],
+    "show_avatar": true,
+    "email": "sokolov.r.v@gmail.com",
+    "discourse": "",
+    "reddit": "little-arhat",
+    "twitter": "larhat",
+    "blog": "",
+    "website": "",
+    "notes": "Software engineer working on video-processing software. Playing with Rust in my spare time."
+}

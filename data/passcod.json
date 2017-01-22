@@ -1,0 +1,16 @@
+{
+    "name": "Félix Saparelli",
+    "irc": "passcod",
+    "irc_channels": [
+      "rust",
+      "cargo"
+    ],
+    "show_avatar": true,
+    "email": "rust@passcod.name",
+    "discourse": "passcod",
+    "reddit": "passcod",
+    "twitter": "passcod",
+    "blog": "https://blog.passcod.name",
+    "website": "https://passcod.name",
+    "notes": ""
+}

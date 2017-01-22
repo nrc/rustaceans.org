@@ -1,0 +1,13 @@
+{
+    "name": "Thomas Winwood",
+    "irc": "Ketsuban",
+    "irc_channels": ["rust", "rust-gamedev", "rust-osdev"],
+    "show_avatar": true,
+    "email": "twwinwood@gmail.com",
+    "discourse": "Ketsuban",
+    "reddit": "ThomasWinwood",
+    "twitter": "ThomasWinwood",
+    "blog": "",
+    "website": "",
+    "notes": "I started off learning Pascal and later C, but it was Python where I actually learned to program rather than merely to write code. Now I've found Rust, and I'm being tempted back to the systems-programming side."
+}

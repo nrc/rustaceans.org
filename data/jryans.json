@@ -1,0 +1,13 @@
+{
+    "name": "J. Ryan Stinnett",
+    "irc": "jryans",
+    "irc_channels": ["rust", "rust-internals", "rust-offtopic", "rust-webdev", "servo"],
+    "show_avatar": true,
+    "email": "jryans@gmail.com",
+    "discourse": "jryans",
+    "reddit": "jryans",
+    "twitter": "jryans",
+    "blog": "https://convolv.es/",
+    "website": "https://convolv.es/",
+    "notes": ""
+}

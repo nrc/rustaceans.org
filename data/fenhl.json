@@ -1,0 +1,22 @@
+{
+    "name": "Max Dominik Weber (“Fenhl”)",
+    "irc": "Fenhl",
+    "irc_channels": [
+        "hematite",
+        "iron",
+        "piston-internals",
+        "rust",
+        "rust-apidesign",
+        "rust-gamedev",
+        "rust-internals",
+        "rust-libs",
+        "rust-webdev",
+        "rustc"
+    ],
+    "show_avatar": true,
+    "email": "fenhl@fenhl.net",
+    "reddit": "Fenhl",
+    "twitter": "Fenhl",
+    "website": "http://fenhl.net/",
+    "notes": "Working on the [Hematite](http://hematite.piston.rs/) server, [`jqsh`](https://github.com/jq-shell/jqsh), and a couple web apps involving [Iron](http://ironframework.io/)."
+}

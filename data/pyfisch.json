@@ -1,0 +1,9 @@
+{
+    "name": "Pyfisch",
+    "irc": "pyfisch",
+    "irc_channels": ["rust", "hyper", "cargo"],
+    "show_avatar": true,
+    "email": "pyfisch@gmail.com",
+    "discourse": "pyfisch",
+    "notes": ""
+}

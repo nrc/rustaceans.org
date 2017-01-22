@@ -1,0 +1,13 @@
+{
+    "name": "Petr Zemek",
+    "email": "s3rvac@gmail.com",
+    "website": "https://petrzemek.net/",
+    "blog": "https://blog.petrzemek.net/",
+    "irc": "s3rvac",
+    "irc_channels": ["rust", "rust-beginners"],
+    "discourse": "s3rvac",
+    "reddit": "s3rvac",
+    "twitter": "@s3rvac",
+    "show_avatar": true,
+    "notes": "Software developer. Open source, C, C++, Python, Rust, Linux, Vim, clean code and TDD enthusiast."
+}

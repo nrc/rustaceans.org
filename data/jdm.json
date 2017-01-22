@@ -1,0 +1,13 @@
+{
+    "name": "Josh Matthews",
+    "irc": "jdm",
+    "irc_channels": ["servo", "rust", "rust-internals"],
+    "show_avatar": true,
+    "email": "josh@joshmatthews.net",
+    "discourse": "",
+    "reddit": "joshmatthews",
+    "twitter": "lastontheboat",
+    "blog": "http://www.joshmatthews.net/blog/",
+    "website": "http://www.joshmatthews.net",
+    "notes": "I work on Servo, and I used to contribute regularly to rustc."
+}

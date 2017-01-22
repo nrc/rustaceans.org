@@ -1,0 +1,12 @@
+{
+    "name": "Simon Wollwage",
+    "irc": "rootnode",
+    "irc_channels": ["rust"],
+    "show_avatar": true,
+    "email": "mail.wollwage@gmail.com",
+    "reddit": "rootnod3",
+    "twitter": "codingbinary",
+    "blog": "kintaro.github.io",
+    "website": "kintaro.github.io",
+    "notes": "Data-miner and building a tiling window manager [mio](https://github.com/Kintaro/wtftw)"
+}

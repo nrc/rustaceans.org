@@ -1,0 +1,13 @@
+{
+    "name": "Marc Dupont",
+    "irc": "mdup",
+    "irc_channels": ["rust", "rustfr"],
+    "show_avatar": true,
+    "email": "marc@mdup.fr",
+    "discourse": "mdup",
+    "reddit": "mdup",
+    "twitter": "heymdup",
+    "blog": "http://mdup.fr/blog",
+    "website": "http://mdup.fr",
+    "notes": "I'm a machine learning PhD student."
+}

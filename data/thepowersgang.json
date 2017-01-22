@@ -1,0 +1,12 @@
+{
+    "name": "John Hodge",
+    "irc": "Mutabah",
+    "irc_channels": ["rust", "rust-internals", "rust-osdev"],
+    "show_avatar": true,
+    "email": "mutabah+rust@mutabah.net",
+    "reddit": "mutabah",
+    "twitter": "",
+    "blog": "",
+    "website": "http://www.mutabah.net/",
+    "notes": ""
+}

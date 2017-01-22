@@ -1,0 +1,22 @@
+{
+    "name": "Alexander Regueiro",
+    "irc": "Noldorin",
+    "irc_channels": [
+        "rust",
+        "rust-beginners",
+        "rust-crypto",
+        "rust-networking",
+        "rust-gamedev",
+        "rust-tools",
+        "rust-offtopic",
+        "cargo"
+    ],
+    "show_avatar": true,
+    "email": "alex@noldorin.com",
+    "discourse": "alexreg",
+    "reddit": "TarAmandil",
+    "twitter": "alexreg90",
+    "blog": "http://blog.noldorin.com/",
+    "website": "http://noldorin.com/",
+    "notes": ""
+}

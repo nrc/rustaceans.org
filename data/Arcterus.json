@@ -1,0 +1,13 @@
+{
+    "name": "Alex Lyon",
+    "irc": "Arcterus",
+    "irc_channels": ["rust", "rust-gamedev", "rust-osdev"],
+    "email": "arcterus@mail.com",
+    "discourse": "Arcterus",
+    "reddit": "ArcterusDev",
+    "twitter": "",
+    "show_avatar": true,
+    "blog": "",
+    "website": "",
+    "notes": "I work on uutils/coreutils and a few of my own projects most of the time, but I've also contributed to the Rust compiler and Cargo."
+}

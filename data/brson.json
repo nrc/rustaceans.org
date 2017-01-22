@@ -1,0 +1,24 @@
+{
+    "name": "Brian Anderson",
+    "irc": "brson",
+    "irc_channels": [
+    	"rust",
+    	"rust-internals",
+    	"rust-libs",
+    	"rust-tools",
+    	"rust-community",
+    	"rust-lang",
+    	"rust-beginners",
+    	"rustc",
+    	"rust-offtopic",
+	"servo"
+    ],
+    "show_avatar": true,
+    "email": "banderson@mozilla.com",
+    "discourse": "brson",
+    "reddit": "brson",
+    "twitter": "",
+    "blog": "http://brson.github.io/blog",
+    "website": "http://brson.github.io",
+    "notes": ""
+}

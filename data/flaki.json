@@ -1,0 +1,17 @@
+{
+  "name": "Szmozsánszky István \"Flaki\"",
+  "irc": "flaki",
+  "irc_channels": [
+  	"rust",
+  	"rust-hu",
+  	"servo"
+  ],
+  "show_avatar": true,
+  "email": "flaki@mozilla.hu",
+  "discourse": "flaki",
+  "reddit": "slsoftworks",
+  "twitter": "slsoftworks",
+  "blog": "https://medium.com/@slsoftworks/",
+  "website": "http://flaki.hu",
+  "notes": ""
+}

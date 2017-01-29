@@ -1,13 +1,11 @@
 {
     "name": "Abdun Nihaal",
     "irc": "nifey",
-    "irc_channels": [rust,servo,rust-beginners],
+    "irc_channels": ["rust","servo","rust-beginners"],
     "show_avatar": true,
-    "email": "",
+    "email": "nifey123@gmail.com",
     "discourse": "",
-    "reddit": "",
     "twitter": "@Nihaal_an",
-    "blog": "",
+    "blog": "http://nifey.github.io",
     "website": "",
-    "notes": ""
 }

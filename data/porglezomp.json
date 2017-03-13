@@ -1,0 +1,12 @@
+{
+    "name": "Caleb Jones",
+    "irc": "porglezomp",
+    "irc_channels": ["rust"],
+    "show_avatar": true,
+    "email": "code@calebjones.net",
+    "discourse": "porglezomp",
+    "twitter": "porglezomp",
+    "website": "http://www.calebjones.net/",
+    "blog": "http://www.calebjones.net/",
+    "notes": "Student at the University of Michigan, interested in programming language theory and computer graphics."
+}

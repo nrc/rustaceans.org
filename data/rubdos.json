@@ -1,7 +1,7 @@
 {
     "name": "Ruben De Smet",
     "irc": "rubdos",
-    "irc_channels": ["rust", "rust-beginners", "rust-webdev", ""],
+    "irc_channels": ["rust", "rust-beginners", "rust-webdev"],
     "show_avatar": true,
     "email": "me at rubdos dot be",
     "discourse": "",

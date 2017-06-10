@@ -1,0 +1,12 @@
+{
+    "name": "Dipak Parmar",
+    "irc": "dipakparmar",
+    "irc_channels": ["rust","rust-osdev","rust-beginners"],
+    "show_avatar": True,
+    "email": "dipak.parmar65@gmail.com",
+    "discourse": "dipakparmar",
+    "twitter": "@dipakparmar65",
+    "blog": "http://www.dipakpparmar.com",
+    "website": "http://www.dipakpparmar.com",
+    "notes": "Mozilian, Open-Source Geek, Cyber Researcher"
+}

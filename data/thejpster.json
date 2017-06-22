@@ -1,7 +1,7 @@
 {
     "name": "Jonathan Pallant",
     "irc": "thejpster",
-    "irc_channels": ["rust-community", "rust-embedded],
+    "irc_channels": ["rust-community", "rust-embedded"],
     "show_avatar": true,
     "email": "rustacean@thejpster.org.uk",
     "discourse": "thejpster",

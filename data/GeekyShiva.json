@@ -1,1 +1,16 @@
-new file 
+{
+    "name": "Shivank Shekhar",
+    "irc": "geekyshiva",
+    "irc_channels": ["rust"],
+    "show_avatar": true,
+    "email": "shivank19958@gmail.com",
+    "discourse": "shivank",
+    "twitter": "@shivank1995",
+    "blog": "https://medium.com/@geekyshiva",
+    "website": "http://geekyshiva.xyz/",
+    "notes": "Rustacean from India region handling and collabrating with many Rust related events and projects under Mozilla India . I am the maintainer of Mozilla Uttar Pradesh Community repo and in my free time I like to build AI algos using Rust and contribute to Piston game engine project."
+}
+
+    Contact GitHub API Training Shop Blog About 
+
+    © 2017 GitHub, Inc. Terms Privacy Secur

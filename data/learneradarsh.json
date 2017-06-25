@@ -1,6 +1,7 @@
+{
 "name": "Adarsh Learner",
 "irc": "learneradarsh",
- "irc_channels": ["rust"],
+"irc_channels": ["rust"],
 "show_avatar": true,
 "email": "learner.adarsh@gmail.com",
 "discourse": "shivank",
@@ -8,3 +9,4 @@
 "blog": "https://updatesoftech.blogspot.in/",
 "website": "http:/learneradarsh.github.io",
 "notes": "By using I want to make an algorithm for load balancing on Nginx Server."
+}

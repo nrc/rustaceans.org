@@ -1,0 +1,25 @@
+{
+    "name": "Havvy",
+    "irc": "Havvy",
+    "irc_channels": [
+        "#rust",
+        "#rust-beginners",
+        "#rust-bots",
+        "#rust-community",
+        "#rust-dev-tools",
+        "#rust-docs",
+        "#rust-gamedev",
+        "#rust-internals",
+        "#rust-lang",
+        "#rust-lib",
+        "#rust-offtopic"
+    ],
+    "show_avatar": true,
+    "email": "ryan.havvy@gmail.com",
+    "discourse": "havvy",
+    "reddit": "isHavvy",
+    "twitter": "havvy",
+    "blog": "",
+    "website": "",
+    "notes": "Owner of Rustbot. Submitter of 4 failed RFCs."
+}

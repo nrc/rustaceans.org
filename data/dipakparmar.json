@@ -2,7 +2,7 @@
     "name": "Dipak Parmar",
     "irc": "dipakparmar",
     "irc_channels": ["rust","rust-osdev","rust-beginners"],
-    "show_avatar": True,
+    "show_avatar": true,
     "email": "dipak.parmar65@gmail.com",
     "discourse": "dipakparmar",
     "twitter": "@dipakparmar65",

@@ -1,0 +1,13 @@
+{
+    "name": "Michael Gattozzi",
+    "irc": "mgattozzi",
+    "irc_channels": ["rust", "rust-internals", "rust-beginners", "rust-docs", "rust-offtopic"],
+    "show_avatar": true,
+    "email": "mgattozzi@gmail.com",
+    "discourse": "mgattozzi",
+    "reddit": "mgattozzi",
+    "twitter": "@mgattozzi",
+    "blog": "https://mgattozzi.com",
+    "website": "https://github.com/mgattozzi",
+    "notes": ""
+}

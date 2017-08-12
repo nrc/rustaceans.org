@@ -1,0 +1,13 @@
+{
+    "name": "Md Al Amin",
+    "irc": "alaminmondol",
+    "irc_channels": ["rust"],
+    "show_avatar": true,
+    "email": "alaminmbstu12@gmail.com",
+    "discourse": "alaminmondol",
+    "reddit": "alaminmondol",
+    "twitter": "@alamin_mbstu",
+    "blog": "",
+    "website": "",
+    "notes": "Alamin is very curious about RUST language.He want to learn this language"
+}

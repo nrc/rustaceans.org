@@ -1,13 +1,13 @@
 {
     "name": "Nick Cameron",
     "irc": "nrc",
-    "irc_channels": ["rust", "rust-internals", "rustc", "servo"], 
+    "irc_channels": ["rust-dev-tools", "rust", "rust-internals", "rust-lang", "rustc", "servo"], 
     "email": "nrc@ncameron.org",
     "discourse": "nrc",
     "reddit": "nick29581",
     "twitter": "nick_r_cameron",
     "show_avatar": true,
-    "blog": "http://featherweightmusings.blogspot.co.nz/",
-    "website": "http://www.ncameron.org",
-    "notes": "I work on the Rust compiler, language design, and tooling ([DXR](https://github.com/nick29581/dxr/tree/rust2)). I'm part of the research team at Mozilla. I used to be @nick29581 on GitHub. \n\nOther projects:\n* [rust-highfive](https://github.com/nrc/highfive) a bot that roams the rust repos being helpful\n* [libhoare](https://github.com/nick29581/libhoare) pre- and postconditions for Rust\n* [rustaceans.org](https://github.com/nick29581/rustaceans-src) this website"
+    "blog": "https://www.ncameron.org/blog",
+    "website": "https://www.ncameron.org",
+    "notes": "I work on the Rust compiler, language design, and tooling. I lead the dev tools team and am part of the core team. I'm part of the research team at Mozilla."
 }

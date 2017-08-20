@@ -6,7 +6,7 @@
     "discourse": "nrc",
     "reddit": "nick29581",
     "twitter": "nick_r_cameron",
-    "show_avatar": true,
+    "show_avatar": True,
     "blog": "https://www.ncameron.org/blog",
     "website": "https://www.ncameron.org",
     "notes": "I work on the Rust compiler, language design, and tooling. I lead the dev tools team and am part of the core team. I'm part of the research team at Mozilla."

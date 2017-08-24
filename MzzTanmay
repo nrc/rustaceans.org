@@ -1,7 +1,7 @@
 {
     "name": "MzzTanmay",
-    "irc": "",
-    "irc_channels": [],
+    "irc": "mzztanmay",
+    "irc_channels": [rust],
     "show_avatar": false,
     "email": "mzz.tanmay@gmail.com",
     "discourse": "mzztanmay",

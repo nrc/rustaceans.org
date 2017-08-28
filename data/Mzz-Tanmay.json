@@ -1,14 +1,13 @@
-++{
-+
-+    "name": "MzzTanmay",
-+    "irc": "mzztanmay",
-+    "irc_channels": [rust],
-+    "show_avatar": true,
-+    "email": "mzz.tanmay@gmail.com",
-+    "discourse": "mzztanmay",
-+    "reddit": "Mzz_Tanmay",
-+    "twitter": "@mzztanmay",
-+    "blog": "http://www.somewhereinblog.net/blog/mzz_tanmay",
-+    "website": "https://mzztanmayblog.wordpress.com/",
-+    "notes": "I am a student of MBSTU. i am very interested of Mozilla"
-+    +}
+{
+   "name": "Mzz Tanmay",
+    "irc": "mzztanmay",
+    "irc_channels": ["rust"],
+    "show_avatar": true,
+    "email": "mzz.tanmay@gmail.com",
+    "discourse": "mzztanmay",
+    "reddit": "Mzz_Tanmay",
+    "twitter": "@mzztanmay",
+    "blog": "http://www.somewhereinblog.net/blog/mzz_tanmay",
+    "website": "https://mzztanmayblog.wordpress.com/",
+    "notes": "I am a student of MBSTU. i am very interested of Mozilla"
+}

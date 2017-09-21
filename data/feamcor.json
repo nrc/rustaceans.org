@@ -1,0 +1,13 @@
+{
+    "name": "Fabio Correa",
+    "irc": "feamcor",
+    "irc_channels": ["rust", "rust-br", "rust-es"],
+    "show_avatar": true,
+    "email": "feamcor@gmail.com",
+    "discourse": "feamcor",
+    "reddit": "feamcor",
+    "twitter": "feamcor",
+    "blog": "",
+    "website": "",
+    "notes": "Always learning something new in Rust."
+}

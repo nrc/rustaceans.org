@@ -1,0 +1,13 @@
+{
+"name": "Thomas Gideon",
+"irc": "cmdln",
+"irc_channels": ["rust", "serde", "iron", "medallion"],
+"show_avatar": true,
+"email": "cmdln@thecommandline.net",
+"discourse": "",
+"reddit": "",
+"twitter": "cmdln",
+"blog": "https://thecommandline.net",
+"website": "https://thecommandline.net",
+"notes": ""
+} 

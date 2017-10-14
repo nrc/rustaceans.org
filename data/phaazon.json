@@ -1,0 +1,13 @@
+{
+  "name": "Dimitri Sabadie",
+  "email": "dimitri.sabadie@gmail.com",
+  "website": "http://phaazon.net",
+  "blog": "http://phaazon.net/blog",
+  "irc": "phaazon",
+  "irc_channels": ["#nom", "#rust", "#rust-beginners", "#rust-fr", "#rust-gamedev", "#rust-internals", "#rust-offtopic", "#rust-dev-tools", "#rustc"],
+  "discourse": "phaazon",
+  "reddit": "phaazon_",
+  "twitter": "@phaazon_",
+  "show_avatar": true,
+  "notes": "Race swimmer, Haskeller, guitarist, curious about everything."
+}

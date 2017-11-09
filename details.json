@@ -1,1 +1,13 @@
-
+{
+    "name": "Harsh Sharma",
+    "irc": "freelancer007",
+    "irc_channels": ["rust"],
+    "show_avatar": false,
+    "email": "harshu8545@gmail.com",
+    "discourse": "",
+    "reddit": "async_javascript",
+    "twitter": "@harshu007",
+    "blog": "",
+    "website": "www.chatterboxredefined.herokuapp.com/about",
+    "notes": ""
+}

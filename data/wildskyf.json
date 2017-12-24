@@ -1,0 +1,13 @@
+{
+    "name": "wildskyf",
+    "irc": "wildsky",
+    "irc_channels": ["rust", "addon-reviewers", "mozilla-taiwan", "webextensions"],
+    "show_avatar": true,
+    "email": "poppin.wildsky+rustaceans@gmail.com",
+    "discourse": "",
+    "reddit": "wi1d5ky",
+    "twitter": "wildskyf",
+    "blog": "https://blog.wildsky.cc",
+    "website": "https://wildskyf.github.io",
+    "notes": ""
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Alexander Payne",
+    "irc": "",
+    "irc_channels": [],
+    "show_avatar": true,
+    "email": "appayne@outlook.com",
+    "discourse": "myrrlyn",
+    "reddit": "myrrlyn",
+    "twitter": "@myrrlyn",
+    "mastodon": "@myrrlyn@cybre.space",
+    "blog": "https://myrrlyn.net/blog",
+    "website": "https://myrrlyn.net",
+    "notes": "I'm a satellite software engineer working on introducing Rust to my company."
+}

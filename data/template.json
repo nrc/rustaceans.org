@@ -1,13 +1,8 @@
 {
-    "name": "",
-    "irc": "",
-    "irc_channels": [],
-    "show_avatar": false,
-    "email": "",
-    "discourse": "",
-    "reddit": "",
-    "twitter": "",
-    "blog": "",
-    "website": "",
-    "notes": ""
+    "name": "Ranjith Raj",
+    "irc": "ranjithraj",
+    "show_avatar": true,
+    "email": "ranjithraj@riseup.net",
+    "reddit": "ranjithrajv",
+    "twitter": "ranjithrajv",
 }

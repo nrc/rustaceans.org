@@ -1,0 +1,26 @@
+{
+    "name": "Havvy",
+    "irc": "Havvy",
+    "irc_channels": [
+        "#rust",
+        "#rust-beginners",
+        "#rust-bots",
+        "#rust-community",
+        "#rust-dev-tools",
+        "#rust-docs",
+        "#rust-gamedev",
+        "#rust-infra",
+        "#rust-internals",
+        "#rust-lang",
+        "#rust-libs",
+        "#rust-offtopic"
+    ],
+    "show_avatar": true,
+    "email": "ryan.havvy@gmail.com",
+    "discourse": "havvy",
+    "reddit": "isHavvy",
+    "twitter": "havvy",
+    "blog": "",
+    "website": "",
+    "notes": "Owner of Rustbot. Maintainer of the Rust Reference."
+}

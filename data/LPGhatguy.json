@@ -1,13 +1,13 @@
 {
     "name": "Lucien Greathouse",
-    "irc": "lpghatguy",
-    "irc_channels": ["rust", "rust-internals", "rust-gamedev", "rust-beginners", "rust-offtopic", "winapi"],
+    "irc": "lpg",
+    "irc_channels": ["rust", "rust-gamedev", "rust-embedded", "rust-osdev", "rust-beginners", "winapi", "xi"],
     "show_avatar": true,
     "email": "me@lpghatguy.com",
     "discourse": "LPGhatguy",
     "reddit": "lpghatguy",
     "twitter": "LPGhatguy",
     "blog": "http://horriblesoftware.com",
-    "website": "http://lpghatguy.com",
+    "website": "https://lpg.space",
     "notes": ""
 }

@@ -1,0 +1,17 @@
+{
+  "name": "Colin Dean",
+  "irc": "rhettigan",
+  "irc_channels": [
+    "rust",
+    "cargo",
+    "rust-beginners"
+  ],
+  "show_avatar": true,
+  "email": "",
+  "discourse": "",
+  "reddit": "colindean",
+  "twitter": "colindean",
+  "blog": "https://medium.com/@colindean/",
+  "website": "http://cad.cx",
+  "notes": "Software engineer and community builder"
+}

@@ -1,12 +1,12 @@
 {
 "name": "Nick Fitzgerald",
 "irc": "fitzgen",
-"irc_channels": ["rust", "devtools", "developers", "js-api"],
+"irc_channels": ["rust", "rust-wasm", "rust-dev-tools", "rust-debugger-tools", "servo", "devtools", "developers", "jsapi"],
 "email": "fitzgen@gmail.com",
 "reddit": "fitzgen",
 "twitter": "fitzgen",
 "show_avatar": true,
 "blog": "http://fitzgeraldnick.com",
 "website": "http://fitzgeraldnick.com",
-"notes": "I'm writing a Scheme implementation in Rust for fun. I hack on the Firefox Developer Tools and SpiderMonkey at work."
+"notes": "I <3 Free Software, 90s hiphop, Greg Egan novels, and Doug Fir trees."
 }

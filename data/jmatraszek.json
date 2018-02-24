@@ -1,0 +1,13 @@
+{
+    "name": "Jakub Matraszek",
+    "irc": "kubaxvx",
+    "irc_channels": ["rust", "rust-beginners", "rust-community", "rust-embedded", "rust-internals", "rust-offtopic", "rust-ru", "rust-webdev"],
+    "show_avatar": true,
+    "email": "jakub.matraszek@gmail.com",
+    "discourse": "kubaxvx",
+    "reddit": "kubaxvx",
+    "twitter": "@kubaxvx",
+    "blog": "http://matraszek.net/blog",
+    "website": "http://matraszek.net",
+    "notes": ""
+}

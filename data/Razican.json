@@ -1,0 +1,21 @@
+{
+    "name": "Iban Eguia Moraza",
+    "irc": "Razican",
+    "irc_channels": [
+        "rust",
+        "rust-crypto",
+        "rust-embedded",
+        "rust-es",
+        "rust-gamedev",
+        "rust-osdev",
+        "rust-webdev"
+    ],
+    "show_avatar": true,
+    "email": "razican@protonmail.ch",
+    "discourse": "Razican",
+    "reddit": "Razican",
+    "twitter": "@Razican",
+    "blog": "https://medium.com/@Razican",
+    "website": "https://www.razican.com/",
+    "notes": "Open source software advocate, amazed about space exploration. I started learning Rust when 1.0 was released. Now I'm even writing a book about it!"
+}

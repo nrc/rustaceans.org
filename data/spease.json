@@ -1,0 +1,11 @@
+{
+  "name": "Steven Pease",
+  "email": "peasteven@gmail.com",
+  "website": "http://www.spease.net",
+  "irc": "spease",
+  "irc_channels": ["rust"],
+  "reddit": "sepease",
+  "twitter": "@sepease",
+  "show_avatar": true,
+  "notes": "Rustacean since early 2017"
+}

@@ -3,11 +3,11 @@
     "irc": "liigo",
     "irc_channels": ["rust"],
     "show_avatar": true,
-    "email": "com.liigo@gmail.com",
+    "email": "liigo@qq.com",
     "discourse": "liigo",
     "reddit": "liigo",
     "twitter": "liigoz",
     "blog": "http://blog.csdn.net/liigo",
     "website": "http://www.liigo.com",
-    "notes": "Being a Rustacean from 2013. Rust is a great systems programming language!"
+    "notes": "Being a Rustacean since 2013. Rust is a great systems programming language!"
 }

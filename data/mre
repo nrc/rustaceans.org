@@ -1,0 +1,13 @@
+{
+    "name": "Matthias Endler",
+    "irc": "mre",
+    "irc_channels": ["rust"],
+    "show_avatar": true,
+    "email": "matthias-endler@gmx.net",
+    "discourse": "mre",
+    "reddit": "mre__",
+    "twitter": "matthiasendler",
+    "blog": "https://matthias-endler.de",
+    "website": "https://matthias-endler.de",
+    "notes": "Also check out https://github.com/hello-rust/show/"
+}

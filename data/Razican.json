@@ -1,0 +1,18 @@
+{
+    "name": "Iban Eguia Moraza",
+    "irc": "Razican",
+    "irc_channels": [
+        "rust",
+        "rust-crypto",
+        "rust-embedded",
+        "rust-es",
+        "rust-gamedev",
+        "rust-osdev",
+        "rust-webdev"
+    ],
+    "show_avatar": true,
+    "email": "razican@protonmail.ch",
+    "discourse": "Razican",
+    "reddit": "Razican",
+    "twitter": "@Razican"
+}

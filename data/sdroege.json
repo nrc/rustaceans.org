@@ -1,0 +1,11 @@
+{
+    "name": "Sebastian Dröge",
+    "irc": "slomo",
+    "irc_channels": ["#rust", "#gtk-rs"],
+    "show_avatar": true,
+    "email": "slomo@coaxion.net",
+    "reddit": "sdroege_",
+    "twitter": "@sdroege_",
+    "blog": "https://coaxion.net/blog",
+    "website": "https://coaxion.net"
+}

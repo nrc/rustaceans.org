@@ -1,0 +1,15 @@
+{
+    "name": "Wesley Moore",
+    "irc": "",
+    "irc_channels": [],
+    "show_avatar": true,
+    "email": "wes@wezm.net",
+    "discourse": "wezm",
+    "reddit": "wezm",
+    "twitter": "@wezm",
+    "mastodon": "@wezm@mastodon.social",
+    "crates": "wezm",
+    "blog": "http://www.wezm.net/",
+    "website": "",
+    "notes": "Maintainer of [Read Rust](https://readrust.net/), an aggregator of interesting Rust related blog posts."
+}

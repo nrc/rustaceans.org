@@ -1,0 +1,13 @@
+{
+    "name": "Daniel Norman",
+    "irc": "DreamingInCode",
+    "irc_channels": ["rust","serde","crossbeam","unbase"],
+    "show_avatar": true,
+    "email": "daniel@danielnorman.com",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "DreamingInCode",
+    "blog": "https://danielnorman.com/blog",
+    "website": "https://danielnorman.com",
+    "notes": "Subject | Predicate | Object\n--- | --- | ---\nDaniel | isa | Humanoid\nDaniel | enjoys | Rust\nDaniel | enjoys | Dreaming\nRust | is | Objectively Cool\nDaniel | lives-in | San Diego, California\nDaniel | tweets-at | [DreamingInCode](https://twitter.com/DreamingInCode)\nDaniel | talks-at | [Talks](https://danielnorman.com/talks)\nDaniel | works-on | [g\u00FCdTECH](https://gudtech.com)\ng\u00FCdTECH | isa | Technology Company\nDaniel | works-on | [unba.se](https://unba.se)\nunba.se | isa | Distributed Database\nunba.se | is | Written in Rust\nDaniel | co-organizes | [San Diego Rust](https://www.meetup.com/San-Diego-Rust)\nDaniel | co-organizes | [Papers We Love SD](https://www.meetup.com/Papers-We-Love-San-Diego)\n"
+}

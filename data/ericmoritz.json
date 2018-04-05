@@ -1,0 +1,13 @@
+{
+  "name": "Eric Moritz",
+  "irc": "slashzero",
+  "irc_channels": ["#rust", "#rust-beginners"],
+  "show_avatar": false,
+  "email": "eric.moritz@gmail.com",
+  "discourse": "",
+  "reddit": "ericmoritz",
+  "twitter": "ericmoritz",
+  "blog": "http://ericmoritz.name/",
+  "website": "http://ericmoritz.name/",
+  "notes": "FP fan. Reluctant Go programmer. Aspiring Rust programmer. Builder of large scale services."
+}

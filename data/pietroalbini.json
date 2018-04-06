@@ -1,0 +1,13 @@
+{
+    "name": "pietroalbini",
+    "irc": "pietroalbini",
+    "irc_channels": ["rust-release", "rust-infra", "rust-internals"],
+    "show_avatar": true,
+    "email": "pietro@pietroalbini.org",
+    "discourse": "pietroalbini",
+    "reddit": "pietroalbini",
+    "twitter": "@pietroalbini",
+    "blog": "https://www.pietroalbini.org/blog/",
+    "website": "https://www.pietroalbini.org/",
+    "notes": ""
+}

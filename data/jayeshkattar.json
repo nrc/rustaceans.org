@@ -1,0 +1,12 @@
+{
+    "name": "Jayesh Katta Ramalingaiah",
+    "irc": "jayeshkattar",
+    "irc_channels": ["rust"],
+    "show_avatar": true,
+    "email": "kr.jayesh94@gmail.com",
+    "discourse": "jayeshkr",
+    "twitter": "@jayeshkattar",
+    "blog": "http://jayeshkattar.github.io/",
+    "website": "http://jayeshkattar.github.io/",
+    "notes": "Rustacean from India region evangelizing @rustlang."
+}

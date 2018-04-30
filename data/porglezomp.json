@@ -1,5 +1,5 @@
 {
-    "name": "Caleb Jones",
+    "name": "C Jones",
     "irc": "porglezomp",
     "irc_channels": ["rust"],
     "show_avatar": true,
@@ -8,5 +8,5 @@
     "twitter": "porglezomp",
     "website": "http://www.calebjones.net/",
     "blog": "http://www.calebjones.net/",
-    "notes": "Student at the University of Michigan, interested in programming language theory and computer graphics."
+    "notes": "Student at the University of Michigan, interested in programming language theory and computer graphics. They/them."
 }

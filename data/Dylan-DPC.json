@@ -1,7 +1,7 @@
 {
     "name": "Dylan-DPC",
     "irc": "dpc1",
-    "irc_channels": ["rust", "rust-beginners],
+    "irc_channels": ["rust", "rust-beginners", "rust-internals"],
     "show_avatar": true,
     "email": "dylan.dpc@gmail.com",
     "discourse": "dylan.dpc",

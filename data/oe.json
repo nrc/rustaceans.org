@@ -4,7 +4,7 @@
   "website": "https://liv.cat",
   "blog": "https://liv.cat",
   "irc": "liv",
-  "channels": [
+  "irc_channels": [
     "rust-community",
     "rust-docs",
     "rustbridge",

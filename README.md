@@ -38,6 +38,7 @@ fields you like (such as `email`).
 * `reddit` - Your username on [Reddit](https://www.reddit.com/r/rust/)
 * `twitter` - Your username on [Twitter](https://twitter.com/), including the
   `@`.
+* `patreon` - Your username on [Patreon](https://www.patreon.com/)
 * `show_avatar` - `true` or `false`, if it is true, your GitHub avatar will be
   displayed on rustaceans.org
 * `notes` - any notes you like about yourself. Markdown format; make sure you

@@ -1,7 +1,13 @@
 {
     "name": "Avi Srivastava",
+    "irc": "k3yavi",
+    "irc_channels": [],
     "show_avatar": true,
     "email": "asrivastava@cs.stonybrook.edu",
-    "twitter": "@k3yavi",
+    "discourse": "k3yavi",
+    "reddit": "",
+    "twitter": "k3yavi",
+    "blog": "",
     "website": "http://k3yavi.github.io/",
+    "notes": ""
 }

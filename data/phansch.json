@@ -1,0 +1,13 @@
+{
+    "name": "Philipp Hansch",
+    "irc": "phansch",
+    "irc_channels": ["clippy", "rustc", "rust-dev-tools"],
+    "show_avatar": true,
+    "email": "dev@phansch.net",
+    "discourse": "phansch",
+    "reddit": "",
+    "twitter": "@phansch",
+    "blog": "https://phansch.net/writing",
+    "website": "https://phansch.net",
+    "notes": "Working on Clippy and related things. Also working towards [100 Rust PRs](https://phansch.net/onehundred/rust/)."
+}

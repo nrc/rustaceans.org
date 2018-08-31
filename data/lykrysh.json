@@ -1,13 +1,13 @@
 {
     "name": "lykrysh",
-    "irc": "lykrysh",
-    "irc_channels": ["rust"],
-    "show_avatar": true,
-    "email": "lykrysh@email.com",
+    "email": "lykrysh@gmail.com",
+    "website": "http://lykry.sh",
+    "reddit": "lykry_sh",
     "discourse": "lykrysh",
-    "reddit": "lykrysh",
-    "twitter": "lykrysh",
+    "irc": "lykrysh",
+    "irc_channels": [],
+    "show_avatar": true,
+    "twitter": "",
     "blog": "",
-    "website": "",
     "notes": ""
 }

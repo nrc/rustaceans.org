@@ -2,7 +2,7 @@
     "name": "Timothy Onyiuke",
     "irc": "timolinn",
     "irc_channels": ["rust", "rust-libs"],
-    "show_avatar": false,
+    "show_avatar": true,
     "discourse": "timolinn",
     "reddit": "timolinn",
     "twitter": "timolinn_",

@@ -2,7 +2,7 @@
     "name": "Shreevari SP",
     "irc": "shreevari",
     "irc_channels": ["rust-beginners"],
-    "show_avatar": false,
+    "show_avatar": true,
     "email": "shreevari.sp@gmail.com",
     "discourse": "",
     "reddit": "",

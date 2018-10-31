@@ -1,7 +1,7 @@
 {
     "name": "Shreevari SP",
     "irc": "shreevari",
-    "irc_channels": [],
+    "irc_channels": ["rust-beginners"],
     "show_avatar": false,
     "email": "shreevari.sp@gmail.com",
     "discourse": "",
@@ -9,5 +9,5 @@
     "twitter": "@shreevari",
     "blog": "",
     "website": "shreevari.github.io",
-    "notes": "Learning Rust"
+    "notes": "Learning Rust. Interested in game development."
 }

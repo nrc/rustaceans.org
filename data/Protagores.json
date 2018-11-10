@@ -1,10 +1,11 @@
 {
     "name": "Ilyas Gasanov",
     "irc": "Prottey",
-    "irc_channels": ["rust", "zinc"],
+    "irc_channels": ["rust", "rust-embedded", "rust-osdev", "rust-ru", "rust-webdev"],
     "show_avatar": true,
     "email": "torso.nafi@gmail.com",
     "discourse": "Protagores",
+    "reddit": "Protagores",
     "website": "https://www.linkedin.com/in/igasanov",
-    "notes": "# About me\n\nI'm from Nevinnomyssk, Russia. I take interest in Rust programming language because it allows for a wide range of uses \u2014 including constrained platforms like MCUs and real-time systems \u2014 while at the same time offering statically checked safety guarantees and other very useful zero-overhead abstractions.\n\nCurrently I'm looking for freelance contracts (one-time remote jobs) where I can use and improve my Rust coding skills. Technology-agnostic projects are okay. Preferably without hard deadline timeouts, at least within a week or two \u2014 depending on the task complexity \u2014 due to current availability concerns.\n\n# Contacts\n\nMedium | Username\n--- | ---\nJabber | [protagores@jabber.org](xmpp:protagores@jabber.org)\nSIP | [0037146758@sipnet.ru](sip:0037146758@sipnet.ru)\nSkype | [gasanov-i](skype:gasanov-i)"
+    "notes": "# About me\n\nI'm from Stavropol, Russia. I take interest in Rust programming language because it allows for a wide range of uses \u2014 including constrained platforms like MCUs and real-time systems \u2014 while at the same time offering statically checked safety guarantees and other very useful zero-overhead abstractions.\n\nCurrently I'm looking for freelance contracts (one-time remote jobs) where I can use and improve my Rust coding skills. Technology-agnostic projects are okay. Preferably without hard deadline timeouts, at least within a week or two \u2014 depending on the task complexity \u2014 due to current availability concerns.\n\n# Contacts\n\nMedium | Username\n--- | ---\nTelegram | [@Protagores](https://t.me/Protagores)\nJabber | [protagores@jabber.org](xmpp:protagores@jabber.org)\nSIP | [0037146758@sipnet.ru](sip:0037146758@sipnet.ru)\nSkype | [gasanov-i](skype:gasanov-i)"
 }

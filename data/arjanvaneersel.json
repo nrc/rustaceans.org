@@ -1,0 +1,13 @@
+{
+    "name": "Arjan van Eersel",
+    "irc": "arjan",
+    "irc_channels": ["rust", "rust-beginners", "rust-community"],
+    "show_avatar": true,
+    "email": "arjan@rustbg.org",
+    "discourse": "arjanvaneersel",
+    "reddit": "arjanvaneersel",
+    "twitter": "arjanvaneersel",
+    "blog": "",
+    "website": "http://rustbg.org",
+    "notes": ""
+}

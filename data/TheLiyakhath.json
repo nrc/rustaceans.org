@@ -1,0 +1,11 @@
+
+{
+    "name": "The Liyakhath",
+    "irc": "liya",
+    "irc_channels": ["rust", "rust-offtopic", "rust-beginners", "rust-gamedev"],
+    "show_avatar": true,
+    "email": "liya@theliya.in",
+    "reddit": "TheLiyakhath",
+    "twitter": "@TheLiyakhath",
+    "website": "https://theliya.in"
+}

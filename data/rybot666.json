@@ -1,7 +1,7 @@
 {
     "name": "rybot666",
     "irc": "rybot666",
-    "irc_channels": ["#rust', "#rust-osdev"],
+    "irc_channels": ["rust", "rust-osdev"],
     "show_avatar": false,
     "email": "ryland.hugo@gmail.com",
     "discourse": "",

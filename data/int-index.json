@@ -1,7 +1,7 @@
 {
-    "name": "Int Index",
+    "name": "Vladislav Zavialov",
     "irc": "int-index",
-    "irc_channels": ["rust", "haskell"],
+    "irc_channels": ["rust", "haskell", "ghc"],
     "show_avatar": true,
     "email": "vlad.z.4096@gmail.com",
     "discourse": "",

@@ -1,0 +1,19 @@
+{
+    "name": "Dan Robertson",
+    "irc": "dlrobertson",
+    "irc_channels": [
+        "rust",
+        "rustc",
+        "rust-embedded",
+        "servo",
+        "wg-codegen"
+    ],
+    "show_avatar": true,
+    "email": "dan@dlrobertson.com",
+    "discourse": "dlrobertson",
+    "reddit": "danlrobertson",
+    "twitter": "",
+    "blog": "http://dlrobertson.com/blog",
+    "website": "http://dlrobertson.com",
+    "notes": ""
+}

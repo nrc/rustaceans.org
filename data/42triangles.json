@@ -1,0 +1,7 @@
+{
+  "name": "Dorian G.",
+  "email": "42triangles@tutanota.com",
+  "irc": "tri",
+  "show_avatar": true,
+  "notes": "I've moved away from being rust-curious, and towards being rust-addicted (sum types, `match`ing, segmentation fault free performane, iterators, ...)."
+}

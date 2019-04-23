@@ -1,6 +1,13 @@
 {
     "name": "Jose Andres Gomez Tovar",
-    "email": "andiespain@hotmail.com",
+    "irc": "",
+    "irc_channels": [],
     "show_avatar": true,
-    "com_notes": "Rust or rusty vs mojito"
+    "email": "andiespain@hotmail.com",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "",
+    "blog": "",
+    "website": "",
+    "notes": "Rust or rusty vs mojito"
 }

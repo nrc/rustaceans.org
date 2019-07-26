@@ -1,0 +1,12 @@
+{
+    "name": "Collins Abitekaniza",
+    "irc": "collin5",
+    "irc_channels": [
+        "rust",
+        "firefox",
+        "servo",
+        "balrog"
+    ],
+    "show_avatar": true,
+    "email": "abtcolns@gmail.com"
+}

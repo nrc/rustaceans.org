@@ -1,13 +1,13 @@
 {
-    "name": "Corey RIchardson",
+    "name": "Corey Richardson",
     "irc": "cmr",
-    "irc_channels": ["rust-internals", "rust-offtopic"],
+    "irc_channels": ["rust-offtopic"],
     "show_avatar": true,
-    "email": "corey@octayn.net",
+    "email": "cmr@octayn.net",
     "discourse": "cmr",
     "reddit": "cmrx64",
     "twitter": "cmrx64",
-    "blog": "http://blog.octayn.net/",
-    "website": "http://octayn.net/",
-    "notes": "Not very active these days. Working on https://robigalia.org"
+    "blog": "http://listed.to/@cmr/",
+    "website": "https://octayn.net/",
+    "notes": "Not very active these days. Used to be working on https://robigalia.org. Currently surviving within capitalism."
 }

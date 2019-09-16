@@ -1,0 +1,15 @@
+{
+    "name": "chuling",
+    "irc": "chuling",
+    "irc_channels": [
+        "rust"
+    ],
+    "show_avatar": true,
+    "email": "meetchuling@outlook.com",
+    "discourse": "chuling#7388",
+    "reddit": "",
+    "twitter": "",
+    "blog": "chuling.github.io",
+    "website": "https://github.com/chuling",
+    "notes": "> Whereof one cannot speak, thereof one must be silent."
+}

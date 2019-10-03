@@ -3,7 +3,6 @@
     "irc": "esclear",
     "irc_channels": ["rust", "rust-crypto"],
     "show_avatar": true,
-    "twitter": "Kellerrahmen",
     "blog": "https://blog.esclear.de/",
     "website": "https://esclear.de/",
     "notes": ""

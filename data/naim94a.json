@@ -1,13 +1,13 @@
 {
     "name": "Naim A.",
-    "irc": null,
-    "irc_channels": null,
+    "irc": "",
+    "irc_channels": [],
     "show_avatar": false,
     "email": "naim@abda.nl",
     "discourse": "naim",
-    "reddit": null,
+    "reddit": "",
     "twitter": "@naim94a",
     "blog": "https://abda.nl",
     "website": "https://abda.nl",
-    "notes": null
+    "notes": ""
 }

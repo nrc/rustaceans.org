@@ -1,12 +1,12 @@
 {
 "name": "Ahmed Charles",
-"irc": "acharles",
-"irc_channels": ["rust", "rust-internals", "cargo", "rust-apidesign", "rust-crypto", "rust-gamedev", "rust-osdev", "rust-webdev", "servo"],
+"irc": "",
+"irc_channels": [],
 "show_avatar": true,
 "email": "acharles@outlook.com",
 "discourse": "ahmedcharles",
 "reddit": "",
-"twitter": "ahmedcharles",
+"twitter": "",
 "blog": "",
 "website": "",
 "notes": ""

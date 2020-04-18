@@ -1,0 +1,13 @@
+{
+    "name": "Jakub Konka",
+    "irc": "",
+    "irc_channels": [],
+    "show_avatar": true,
+    "email": "kubkon@jakubkonka.com",
+    "discourse": "kubkon",
+    "reddit": "kubkon",
+    "twitter": "kubkon",
+    "blog": "http://www.jakubkonka.com",
+    "website": "http://www.jakubkonka.com",
+    "notes": "Working on Wasmtime, WebAssembly, and WASI. Also experimenting a little bit with TEEs."
+}

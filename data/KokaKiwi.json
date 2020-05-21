@@ -1,0 +1,8 @@
+{
+  "name": "KokaKiwi",
+  "email": "kokakiwi+rust@kokakiwi.net",
+  "website": "https://kokakiwi.moe",
+  "show_avatar": true,
+  "discourse": "KokaKiwi",
+  "notes": "I made the crate hex, but i mostly just play around with Rust on many projects."
+}

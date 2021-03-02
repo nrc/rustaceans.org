@@ -18,5 +18,5 @@
     "reddit": "Fenhl",
     "twitter": "Fenhl",
     "website": "http://fenhl.net/",
-    "notes": "Working on the [Hematite](http://hematite.piston.rs/) server, [`jqsh`](https://github.com/jq-shell/jqsh), and a couple web apps involving [Iron](http://ironframework.io/)."
+    "notes": "Working on the [Hematite](http://hematite.piston.rs/) server, [`jqsh`](https://github.com/jq-shell/jqsh), and a couple web apps involving [Iron](https://github.com/iron/iron)."
 }

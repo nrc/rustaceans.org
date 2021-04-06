@@ -1,10 +1,11 @@
 rustaceans.org
 ==============
 
-[rustaceans.org](http://www.rustaceans.org) is a website for finding information
-about members of the Rust community. This repository contains details of
-rustaceans and provides the data for rustaceans.org. To see the source itself
-for rustaceans.org, see https://github.com/nick29581/rustaceans-src.
+[rustaceans.org](https://www.rustaceans.org/) is a website for finding
+information about members of the Rust community. This repository contains
+details of Rustaceans and provides the data for rustaceans.org. To see the
+source itself for rustaceans.org, see
+https://github.com/rust-unofficial/rustaceans-src.
 
 To add or edit your data, you must fork this repo and send a pull request. Your
 PR should only add/modify a single file named `<your github username>.json` in
@@ -12,12 +13,12 @@ the `data` directory. If your PR touches only your file, it will be
 automatically merged and the database for rustaceans.org is automatically
 updated.
 
-To remove yourself from rustaceans.org, send a PR removing your json file. Note
+To remove yourself from rustaceans.org, send a PR removing your JSON file. Note
 that your data will remain in the public history of this repository and cannot
 be removed.
 
-[data/template.json](https://github.com/nick29581/rustaceans.org/blob/master/data/template.json)
-is a template json file you can fill in with your details. Make sure you don't
+[data/template.json](https://github.com/nrc/rustaceans.org/blob/master/data/template.json)
+is a template JSON file you can fill in with your details. Make sure you don't
 delete the original file or your PR will be rejected. All fields are optional
 (but your GitHub username will always be shown on rustaceans.org). You can add
 any fields you like; they will be ignored, but if that field is added to
@@ -32,15 +33,15 @@ fields you like (such as `email`).
 * `blog` - URL for your blog.
 * `irc` - Your IRC nickname.  (Does not support different nicknames for
   different servers; use the nickname you use on Rust IRC channels.)
-* `irc_channels` - a json array of channel names on `irc.mozilla.org`, without
+* `irc_channels` - A JSON array of channel names on `irc.mozilla.org`, without
   the `#` (e.g. `["rust", "rust-gamedev"]`).
 * `discourse` - Your username on [Discourse](https://internals.rust-lang.org/).
-* `reddit` - Your username on [Reddit](https://www.reddit.com/r/rust/)
+* `reddit` - Your username on [Reddit](https://www.reddit.com/r/rust/).
 * `twitter` - Your username on [Twitter](https://twitter.com/), including the
   `@`.
 * `show_avatar` - `true` or `false`, if it is true, your GitHub avatar will be
-  displayed on rustaceans.org
-* `notes` - any notes you like about yourself. Markdown format; make sure you
+  displayed on rustaceans.org.
+* `notes` - Any notes you like about yourself. Markdown format; make sure you
   escape newlines and double quotes.
 
 ## License and copyright

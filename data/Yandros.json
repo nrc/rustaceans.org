@@ -1,0 +1,14 @@
+
+{
+    "name": "Daniel Henry-Mantilla",
+    "irc": "",
+    "irc_channels": [],
+    "show_avatar": true,
+    "email": "daniel.henry-mantilla@polytechnique.org",
+    "discourse": "Yandros",
+    "reddit": "YANDR0S",
+    "twitter": "",
+    "blog": "https://danielhenrymantilla.github.io/",
+    "website": "linkedin.com/in/danielhenrymantilla",
+    "notes": "A rustacean passionate about in-depth understanding of things, and thus, someone who enjoys explaining (teaching?) stuff. I like the functional-style type-level abstractions and safeties of Rust, as well as its tweakability for low-level code, such as FFI. Quite (too?) fond of macros and meta-programming as well 🙃\nI may sometimes experiment with alternative formattings, don't judge me too harshly for that 😉"
+}

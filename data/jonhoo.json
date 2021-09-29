@@ -1,0 +1,13 @@
+{
+    "name": "Jon Gjengset",
+    "irc": "jonhoo",
+    "irc_channels": [],
+    "show_avatar": true,
+    "email": "jon@thesquareplanet.com",
+    "discourse": "jonhoo",
+    "reddit": "jonhoo",
+    "twitter": "jonhoo",
+    "blog": "https://thesquareplanet.com/blog/",
+    "website": "https://thesquareplanet.com/",
+    "notes": "Makes [YouTube videos about Rust](https://www.youtube.com/c/JonGjengset) and wrote [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)."
+}

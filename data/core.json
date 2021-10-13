@@ -1,0 +1,13 @@
+{
+    "name": "core",
+    "irc": "cire",
+    "irc_channels": [],
+    "show_avatar": True,
+    "email": "core@coredoes.dev",
+    "discourse": "",
+    "reddit": "corecuber",
+    "twitter": "",
+    "blog": "",
+    "website": "coredoes.dev",
+    "notes": ""
+}

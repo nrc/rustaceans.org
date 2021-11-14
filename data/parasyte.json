@@ -1,0 +1,11 @@
+{
+    "name": "Jay Oster",
+    "show_avatar": true,
+    "email": "jay@kodewerx.org",
+    "discourse": "parasyte",
+    "reddit": "kodewerx",
+    "twitter": "@kodewerx",
+    "blog": "https://blog.kodewerx.org/",
+    "website": "https://www.kodewerx.org/",
+    "notes": "Independent game developer and Rustacean. I make games, art, and technology. User and contributor to the Bevy game engine and `egui` immediate mode user interface. Classic game hacker and huuuuuge nerd."
+}

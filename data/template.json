@@ -4,9 +4,11 @@
     "irc_channels": [],
     "show_avatar": false,
     "email": "",
+    "emoji_story": "💖🦀",
     "discourse": "",
-    "reddit": "",
-    "twitter": "",
+    "reddit.com": "u/",
+    "twitter.com": "",
+    "linkedin.com": "in/",
     "blog": "",
     "website": "",
     "notes": ""

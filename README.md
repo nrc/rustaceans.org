@@ -23,9 +23,11 @@ fields you like (such as `email`).
 
 * `name` - Your name.
 * `location` - Your location
-* `tz`: - any ISO timezone format
-* `email` - Your email address. Will appear in a mailto link.
+* `tz`: - any ISO timezone format i.e. PST AEST
+* `email` - Your email address. 
+  - Will appear in a mailto link.
 * `matrix.org` - your matrix.org
+  - 👀: [#rust:matrix.org]https://matrix.to/#/#rust:matrix.org
 * `website` - Your homepage URL.
 * `blog` - URL for your blog.
 * `irc` - Your IRC nickname.  (Does not support different nicknames for
@@ -33,10 +35,17 @@ fields you like (such as `email`).
 * `irc_channels` - A JSON array of channel names on `irc.mozilla.org`, without
   the `#` (e.g. `["rust", "rust-gamedev"]`).
 * `discourse` - [Discourse](https://internals.rust-lang.org/).
-* `discord.gg` - [Discord Rustacean Station](https://discord.gg/chW4EKV9), 
+* `discord.gg` - [Discord](https://discord.gg/), fg
+  - 👂:  [Rustacean Station](https://discord.gg/chW4EKV9)
+  - 👂:  [Rustacean Station](https://discord.gg/chW4EKV9)
 * `reddit.com` -  [Reddit](https://www.reddit.com/r/rust/).
 * `twitter.com` - [Twitter](https://twitter.com/), including the
   `@`.
+    - 👀: [Rust Lang](http://twitter.com/Rustlang)
+    - 👀: [Rust LibHunt](http://twitter.com/RustLibHunt)
+    - 👀: [Rust Trending](http://twitter.com/Rusttrending)
+    - 👀: [Rust Foundation](http://twitter.com/Rust_foundation)
+    - 👀: [Rustacean Station](http://twitter.com/rustaceanfm)
 * `show_avatar` - `true` or `false`, if it is true, your GitHub avatar will be displayed on rustaceans.org.
 * `notes` - Any notes you like about yourself. Markdown format; make sure you
   escape newlines and double quotes.

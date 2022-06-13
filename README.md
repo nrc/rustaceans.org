@@ -37,7 +37,6 @@ fields you like (such as `email`).
 * `discourse` - [Discourse](https://internals.rust-lang.org/).
 * `discord.gg` - [Discord](https://discord.gg/), fg
   - 👂:  [Rustacean Station](https://discord.gg/chW4EKV9)
-  - 👂:  [Rustacean Station](https://discord.gg/chW4EKV9)
 * `reddit.com` -  [Reddit](https://www.reddit.com/r/rust/).
 * `twitter.com` - [Twitter](https://twitter.com/), including the
   `@`.

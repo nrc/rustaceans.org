@@ -1,0 +1,9 @@
+{
+    "name": "Ethan Hindmarsh",
+    "irc": "EthanHindmarsh",
+    "irc_channels": ["vim", "haskell", "archlinux", "rust", "rust-fr", "rust-gamedev", "cargo"],
+    "show_avatar": true,
+    "email": "ethan@ethanhindmarsh.com",
+    "website": "ethanhindmarsh.com",
+    "notes": "🙌 Let's Get Rusty 🦀"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Pepe Márquez Romero",
+    "irc": "pxp9",
+    "irc_channels": [],
+    "show_avatar": true,
+    "email": "pepe.marquezromero@gmail.com",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "",
+    "blog": "",
+    "website": "",
+    "notes": "I am studying computer science, also I love open-source community that is why I started to contributing in some Rust projects like [fang](https://github.com/ayrat555/fang) or doing my own [weather provider bot](https://github.com/pxp9/weather_bot_rust/)"
+}

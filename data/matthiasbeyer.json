@@ -1,11 +1,5 @@
 {
     "name": "Matthias Beyer",
-    "irc": "musicmatze",
-    "irc_channels": [
-        "rust",
-        "rust-de",
-        "rust-offtopic"
-    ],
     "show_avatar": true,
     "email": "mail@beyermatthias.de",
     "discourse": "",

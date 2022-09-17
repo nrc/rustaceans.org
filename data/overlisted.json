@@ -1,7 +1,13 @@
 {
     "name": "Ilya Maximov",
+    "irc": "",
+    "irc_channels": [],
     "show_avatar": true,
     "email": "mail@overlisted.net",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "",
+    "blog": "",
     "website": "https://overlisted.net",
     "notes": "Rust is the first language that I'm struggling to get bored of."
 }

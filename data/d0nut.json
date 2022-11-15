@@ -1,0 +1,9 @@
+{
+    "name": "Nathanial Lattimer",
+    "show_avatar": true,
+    "email": "nathanial.lattimer@gmail.com",
+    "twitter": "https://twitter.com/d0nutptr",
+    "blog": "https://medium.com/@d0nut",
+    "website": "https://resync.gg",
+    "notes": "I'm a security engineer that spends their time focusing on ways to use Rust's type system to make software safer. Mastodon: `@d0nut@infosec.exchange`"
+}

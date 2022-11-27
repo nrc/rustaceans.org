@@ -39,6 +39,8 @@ fields you like (such as `email`).
 * `reddit` - Your username on [Reddit](https://www.reddit.com/r/rust/).
 * `twitter` - Your username on [Twitter](https://twitter.com/), including the
   `@`.
+* `mastodon` - Your username on the [Fediverse/Mastodon](https://en.wikipedia.org/wiki/Fediverse), in the format
+  `@u@i`, where u is the username and i the instance. This can be found in your profile page.
 * `show_avatar` - `true` or `false`, if it is true, your GitHub avatar will be
   displayed on rustaceans.org.
 * `notes` - Any notes you like about yourself. Markdown format; make sure you

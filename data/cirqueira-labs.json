@@ -1,8 +1,13 @@
 {
-    "name": "José Carlos Cirqueira Júnior",
+    "name": "Jose Carlos Cirqueira Junior",
+    "irc": "",
+    "irc_channels": [],
     "show_avatar": true,
     "email": "mail@cirqueira.com",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "",
+    "blog": "https://cirqueira.com",
     "website": "https://cirqueira.com",
-    "notes": "In love with Rust",
-    "blog": "https://cirqueira.com"
+    "notes": "In love with Rust"
 }

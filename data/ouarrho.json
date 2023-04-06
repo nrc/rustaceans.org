@@ -1,4 +1,5 @@
 {
-    "name": "Ouarrho",
-    "show_avatar": true,
+  "name": "ouarrho",
+  "irc": "ouarrho",
+  "show_avatar": true
 }

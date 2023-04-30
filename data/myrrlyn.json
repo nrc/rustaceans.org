@@ -3,12 +3,12 @@
     "irc": "",
     "irc_channels": [],
     "show_avatar": true,
-    "email": "appayne@outlook.com",
+    "email": "self@myrrlyn.dev",
     "discourse": "myrrlyn",
     "reddit": "myrrlyn",
     "twitter": "@myrrlyn",
-    "mastodon": "@myrrlyn@cybre.space",
+    "mastodon": "@myrrlyn@tacobelllabs.net",
     "blog": "https://myrrlyn.net/blog",
     "website": "https://myrrlyn.net",
-    "notes": "I'm a satellite software engineer working on introducing Rust to my company."
+    "notes": "I am the inventor of `bitvec` and its supporting crates"
 }

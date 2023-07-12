@@ -1,0 +1,12 @@
+{
+    "name": "İsmail Arılık",
+    "show_avatar": true,
+    "email": "arilik.ismail@gmail.com",
+    "discourse": "ismailarilik",
+    "reddit": "ismailarilik",
+    "twitter": "@ismailarilik",
+    "mastodon": "@ismailarilik@mastodon.social",
+    "blog": "https://ismailarilik.com",
+    "website": "https://ismailarilik.com",
+    "notes": "Reading [rustc-dev-guide](https://rustc-dev-guide.rust-lang.org/) so maybe one day can contribute to [the Rust compiler](https://github.com/rust-lang/rust)"
+}

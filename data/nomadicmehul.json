@@ -1,13 +1,13 @@
 {
     "name": "Mehul Patel",
-    "irc": "rowdymehul",
+    "irc": "nomadicmehul",
     "irc_channels": ["rust"],
     "show_avatar": true,
-    "email": "iamrowdymehul@gmail.com",
-    "discourse": "rowdymehul",
-    "reddit": "rowdymehul",
-    "twitter": "@rowdymehul",
-    "blog": "https://medium.com/@rowdymehul",
-    "website": "http://www.rowdymehul.com/",
+    "email": "nomadicmehul@gmail.com",
+    "discourse": "nomadicmehul",
+    "reddit": "nomadicmehul",
+    "twitter": "@nomadicmehul",
+    "blog": "https://medium.com/@nomadicmehul",
+    "website": "http://www.nomadicmehul.com/",
     "notes": "Rustacean from India region handling and collabrating with many Rust related events and projects. I am the Rust Speaker & Independent Researcher. Learning Interests : Machine Learning, AI & Data science."
 }

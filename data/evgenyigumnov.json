@@ -1,0 +1,13 @@
+{
+    "name": "Evgeny Igumnov",
+    "irc": "",
+    "irc_channels": [],
+    "show_avatar": true,
+    "email": "igumnovnsk@gmail.com",
+    "discourse": "",
+    "reddit": "",
+    "twitter": "",
+    "blog": "https://medium.com/@igumnovnsk",
+    "website": "https://github.com/evgenyigumnov",
+    "notes": " I have been a software developer for 27 years since I graduated from Novosibirsk State Technical University in 1996 with a degree in Software Engineering.\r\nMy first job after university was with Le Petit Fute where I worked as a Perl developer from 1996 to 2001. I helped build their website and designed the database structure.\r\n In 2001, I moved to Geocad as a Java developer. I worked on backend development and database optimization. I specialized in performance and scalability.\r\n After 7 years at Geocad, in 2007 I founded my own company called MyLivePage where I was the owner and lead PHP developer. I built the core CMS system and provided highload expertise by optimizing SQL queries and implementing caching.\r\n In 2014, I left MyLivePage and joined Jetico as a Rust developer where I currently work today. At Jetico, I've built document search and indexing engines using Rust, Actix, Tokio and other modern technologies. I also developed a license server in Rust. \r\n In summary, I have over 27 years of experience in software development, spanning early technologies like Perl to modern stacks using Rust. I have expertise in backend systems, databases, performance and scalability."
+}

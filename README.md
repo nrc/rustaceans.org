@@ -1,6 +1,8 @@
 rustaceans.org
 ==============
 
+Rustaceans.org is no longer; sorry. This repo will continue to exist in case you really need to find some backing data. Feel free to send PRs to remove or update your entry.
+
 [rustaceans.org](https://www.rustaceans.org/) is a website for finding
 information about members of the Rust community. This repository contains
 details of Rustaceans and provides the data for rustaceans.org. To see the
